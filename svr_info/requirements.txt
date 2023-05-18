@@ -1,0 +1,5 @@
+pyyaml
+openpyxl == 2.6.1
+pandas
+xlwt
+xlrd == 1.2.0

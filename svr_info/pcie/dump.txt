@@ -1,0 +1,1676 @@
+
+> lspci -t: 
+-+-[0000:ff]-+-00.0
+ |           +-00.1
+ |           +-00.2
+ |           +-00.3
+ |           +-00.4
+ |           +-00.5
+ |           +-00.6
+ |           +-00.7
+ |           +-01.0
+ |           +-01.1
+ |           +-01.2
+ |           +-01.3
+ |           +-01.4
+ |           +-01.5
+ |           +-01.6
+ |           +-01.7
+ |           +-02.0
+ |           +-02.1
+ |           +-02.2
+ |           +-02.3
+ |           +-02.4
+ |           +-02.5
+ |           +-02.6
+ |           +-02.7
+ |           +-03.0
+ |           +-03.1
+ |           +-03.2
+ |           +-03.3
+ |           +-03.4
+ |           +-03.5
+ |           +-03.6
+ |           +-03.7
+ |           +-04.0
+ |           +-04.1
+ |           +-04.2
+ |           +-04.3
+ |           +-04.4
+ |           +-04.5
+ |           +-04.6
+ |           +-04.7
+ |           +-05.0
+ |           +-05.1
+ |           +-05.2
+ |           +-05.3
+ |           +-05.4
+ |           +-05.5
+ |           +-05.6
+ |           +-05.7
+ |           +-06.0
+ |           +-06.1
+ |           +-06.2
+ |           +-06.3
+ |           +-0a.0
+ |           +-0a.1
+ |           +-0a.2
+ |           +-0a.3
+ |           +-0a.4
+ |           +-0a.5
+ |           +-0a.6
+ |           +-0a.7
+ |           +-0b.0
+ |           +-0b.1
+ |           +-0b.2
+ |           +-0b.3
+ |           +-0b.4
+ |           +-0b.5
+ |           +-0b.6
+ |           +-0b.7
+ |           +-0c.0
+ |           +-0c.1
+ |           +-0c.2
+ |           +-0c.3
+ |           +-0c.4
+ |           +-0c.5
+ |           +-0c.6
+ |           +-0c.7
+ |           +-0d.0
+ |           +-0d.1
+ |           +-0d.2
+ |           +-0d.3
+ |           +-0d.4
+ |           +-0d.5
+ |           +-0d.6
+ |           +-0d.7
+ |           +-0e.0
+ |           +-0e.1
+ |           +-0e.2
+ |           +-0e.3
+ |           +-0e.4
+ |           +-0e.5
+ |           +-0e.6
+ |           +-0e.7
+ |           +-0f.0
+ |           +-0f.1
+ |           +-0f.2
+ |           +-0f.3
+ |           +-0f.4
+ |           +-0f.5
+ |           +-0f.6
+ |           +-0f.7
+ |           +-10.0
+ |           +-10.1
+ |           +-10.2
+ |           +-10.3
+ |           +-1d.0
+ |           +-1d.1
+ |           +-1e.0
+ |           +-1e.1
+ |           +-1e.2
+ |           +-1e.3
+ |           +-1e.4
+ |           +-1e.5
+ |           +-1e.6
+ |           \-1e.7
+ +-[0000:fe]-+-00.0
+ |           +-00.1
+ |           +-00.2
+ |           +-00.3
+ |           +-00.5
+ |           +-01.0
+ |           +-01.1
+ |           +-01.2
+ |           +-02.0
+ |           +-02.1
+ |           +-02.2
+ |           +-03.0
+ |           +-03.1
+ |           +-03.2
+ |           +-04.0
+ |           +-04.1
+ |           +-04.2
+ |           +-05.0
+ |           +-05.1
+ |           +-05.2
+ |           +-06.0
+ |           +-06.1
+ |           +-06.2
+ |           +-07.0
+ |           +-07.1
+ |           +-07.2
+ |           +-08.0
+ |           +-08.1
+ |           +-08.2
+ |           +-0c.0
+ |           +-0d.0
+ |           +-0e.0
+ |           +-0f.0
+ |           +-1a.0
+ |           +-1b.0
+ |           +-1c.0
+ |           \-1d.0
+ +-[0000:f6]-+-00.0
+ |           +-00.1
+ |           +-00.2
+ |           \-00.4
+ +-[0000:f1]-+-00.0
+ |           +-00.1
+ |           +-00.2
+ |           \-00.4
+ +-[0000:ec]-+-00.0
+ |           +-00.1
+ |           +-00.2
+ |           \-00.4
+ +-[0000:ea]---00.0
+ +-[0000:e8]---00.0
+ +-[0000:e7]-+-00.0
+ |           +-00.1
+ |           +-00.2
+ |           +-00.4
+ |           +-01.0
+ |           +-02.0
+ |           +-03.0
+ |           +-03.1
+ |           \-03.2
+ +-[0000:d7]-+-00.0
+ |           +-00.1
+ |           +-00.2
+ |           \-00.4
+ +-[0000:c7]-+-00.0
+ |           +-00.1
+ |           +-00.2
+ |           \-00.4
+ +-[0000:b7]-+-00.0
+ |           +-00.1
+ |           +-00.2
+ |           \-00.4
+ +-[0000:a7]-+-00.0
+ |           +-00.1
+ |           +-00.2
+ |           \-00.4
+ +-[0000:97]-+-00.0
+ |           +-00.1
+ |           +-00.2
+ |           \-00.4
+ +-[0000:80]-+-00.0
+ |           +-00.1
+ |           +-00.2
+ |           \-00.4
+ +-[0000:7f]-+-00.0
+ |           +-00.1
+ |           +-00.2
+ |           +-00.3
+ |           +-00.4
+ |           +-00.5
+ |           +-00.6
+ |           +-00.7
+ |           +-01.0
+ |           +-01.1
+ |           +-01.2
+ |           +-01.3
+ |           +-01.4
+ |           +-01.5
+ |           +-01.6
+ |           +-01.7
+ |           +-02.0
+ |           +-02.1
+ |           +-02.2
+ |           +-02.3
+ |           +-02.4
+ |           +-02.5
+ |           +-02.6
+ |           +-02.7
+ |           +-03.0
+ |           +-03.1
+ |           +-03.2
+ |           +-03.3
+ |           +-03.4
+ |           +-03.5
+ |           +-03.6
+ |           +-03.7
+ |           +-04.0
+ |           +-04.1
+ |           +-04.2
+ |           +-04.3
+ |           +-04.4
+ |           +-04.5
+ |           +-04.6
+ |           +-04.7
+ |           +-05.0
+ |           +-05.1
+ |           +-05.2
+ |           +-05.3
+ |           +-05.4
+ |           +-05.5
+ |           +-05.6
+ |           +-05.7
+ |           +-06.0
+ |           +-06.1
+ |           +-06.2
+ |           +-06.3
+ |           +-0a.0
+ |           +-0a.1
+ |           +-0a.2
+ |           +-0a.3
+ |           +-0a.4
+ |           +-0a.5
+ |           +-0a.6
+ |           +-0a.7
+ |           +-0b.0
+ |           +-0b.1
+ |           +-0b.2
+ |           +-0b.3
+ |           +-0b.4
+ |           +-0b.5
+ |           +-0b.6
+ |           +-0b.7
+ |           +-0c.0
+ |           +-0c.1
+ |           +-0c.2
+ |           +-0c.3
+ |           +-0c.4
+ |           +-0c.5
+ |           +-0c.6
+ |           +-0c.7
+ |           +-0d.0
+ |           +-0d.1
+ |           +-0d.2
+ |           +-0d.3
+ |           +-0d.4
+ |           +-0d.5
+ |           +-0d.6
+ |           +-0d.7
+ |           +-0e.0
+ |           +-0e.1
+ |           +-0e.2
+ |           +-0e.3
+ |           +-0e.4
+ |           +-0e.5
+ |           +-0e.6
+ |           +-0e.7
+ |           +-0f.0
+ |           +-0f.1
+ |           +-0f.2
+ |           +-0f.3
+ |           +-0f.4
+ |           +-0f.5
+ |           +-0f.6
+ |           +-0f.7
+ |           +-10.0
+ |           +-10.1
+ |           +-10.2
+ |           +-10.3
+ |           +-1d.0
+ |           +-1d.1
+ |           +-1e.0
+ |           +-1e.1
+ |           +-1e.2
+ |           +-1e.3
+ |           +-1e.4
+ |           +-1e.5
+ |           +-1e.6
+ |           \-1e.7
+ +-[0000:7e]-+-00.0
+ |           +-00.1
+ |           +-00.2
+ |           +-00.3
+ |           +-00.5
+ |           +-01.0
+ |           +-01.1
+ |           +-01.2
+ |           +-02.0
+ |           +-02.1
+ |           +-02.2
+ |           +-03.0
+ |           +-03.1
+ |           +-03.2
+ |           +-04.0
+ |           +-04.1
+ |           +-04.2
+ |           +-05.0
+ |           +-05.1
+ |           +-05.2
+ |           +-06.0
+ |           +-06.1
+ |           +-06.2
+ |           +-07.0
+ |           +-07.1
+ |           +-07.2
+ |           +-08.0
+ |           +-08.1
+ |           +-08.2
+ |           +-0c.0
+ |           +-0d.0
+ |           +-0e.0
+ |           +-0f.0
+ |           +-1a.0
+ |           +-1b.0
+ |           +-1c.0
+ |           \-1d.0
+ +-[0000:79]-+-00.0
+ |           +-00.1
+ |           +-00.2
+ |           \-00.4
+ +-[0000:74]-+-00.0
+ |           +-00.1
+ |           +-00.2
+ |           \-00.4
+ +-[0000:6f]-+-00.0
+ |           +-00.1
+ |           +-00.2
+ |           \-00.4
+ +-[0000:6d]---00.0
+ +-[0000:6b]---00.0
+ +-[0000:6a]-+-00.0
+ |           +-00.1
+ |           +-00.2
+ |           +-00.4
+ |           +-01.0
+ |           +-02.0
+ |           +-03.0
+ |           +-03.1
+ |           \-03.2
+ +-[0000:59]-+-00.0
+ |           +-00.1
+ |           +-00.2
+ |           \-00.4
+ +-[0000:48]-+-00.0
+ |           +-00.1
+ |           +-00.2
+ |           \-00.4
+ +-[0000:37]-+-00.0
+ |           +-00.1
+ |           +-00.2
+ |           \-00.4
+ +-[0000:26]-+-00.0
+ |           +-00.1
+ |           +-00.2
+ |           \-00.4
+ +-[0000:15]-+-00.0
+ |           +-00.1
+ |           +-00.2
+ |           \-00.4
+ \-[0000:00]-+-00.0
+             +-00.1
+             +-00.2
+             +-00.4
+             +-0d.0-[01]----00.0
+             +-0f.0-[02-03]----00.0-[03]----00.0
+             +-14.0
+             +-14.2
+             +-14.4
+             +-15.0
+             +-16.0
+             +-16.1
+             +-16.4
+             +-17.0
+             +-18.0
+             +-1f.0
+             +-1f.3
+             +-1f.4
+             \-1f.5
+
+> lspci | grep 'PCI bridge' | grep -v 'Root': 
+00:0d.0 PCI bridge: Intel Corporation Device 1bbd (rev 11)
+00:0f.0 PCI bridge: Intel Corporation Device 1bbf (rev 11)
+02:00.0 PCI bridge: ASPEED Technology, Inc. AST1150 PCI-to-PCI Bridge (rev 06)
+
+> lspci | grep Root: 
+
+> dmesg | grep 'NUMA node': 
+[    9.185643] pci_bus 0000:00: on NUMA node 0
+[    9.192420] pci_bus 0000:15: on NUMA node 0
+[    9.198695] pci_bus 0000:26: on NUMA node 0
+[    9.204974] pci_bus 0000:37: on NUMA node 0
+[    9.211225] pci_bus 0000:48: on NUMA node 0
+[    9.217493] pci_bus 0000:59: on NUMA node 0
+[    9.223666] pci_bus 0000:6a: on NUMA node 0
+[    9.229172] pci_bus 0000:6b: on NUMA node 0
+[    9.234637] pci_bus 0000:6d: on NUMA node 0
+[    9.240331] pci_bus 0000:6f: on NUMA node 0
+[    9.246072] pci_bus 0000:74: on NUMA node 0
+[    9.251906] pci_bus 0000:79: on NUMA node 0
+[    9.256755] pci_bus 0000:7e: on NUMA node 0
+[    9.270222] pci_bus 0000:7f: on NUMA node 0
+[    9.276546] pci_bus 0000:97: on NUMA node 1
+[    9.282851] pci_bus 0000:a7: on NUMA node 1
+[    9.289137] pci_bus 0000:b7: on NUMA node 1
+[    9.295436] pci_bus 0000:c7: on NUMA node 1
+[    9.301832] pci_bus 0000:d7: on NUMA node 1
+[    9.308644] pci_bus 0000:80: on NUMA node 1
+[    9.315334] pci_bus 0000:e7: on NUMA node 1
+[    9.320904] pci_bus 0000:e8: on NUMA node 1
+[    9.326408] pci_bus 0000:ea: on NUMA node 1
+[    9.332150] pci_bus 0000:ec: on NUMA node 1
+[    9.337927] pci_bus 0000:f1: on NUMA node 1
+[    9.343719] pci_bus 0000:f6: on NUMA node 1
+[    9.348876] pci_bus 0000:fe: on NUMA node 1
+[    9.363301] pci_bus 0000:ff: on NUMA node 1
+
+
+> lspci -vs 00:0d.0:
+00:0d.0 PCI bridge: Intel Corporation Device 1bbd (rev 11) (prog-if 00 [Normal decode])
+	Flags: bus master, fast devsel, latency 0, IRQ 53, NUMA node 0, IOMMU group 4
+	Memory at 200ffff20000 (64-bit, non-prefetchable) [size=128K]
+	Bus: primary=00, secondary=01, subordinate=01, sec-latency=0
+	I/O behind bridge: [disabled]
+	Memory behind bridge: 95100000-952fffff [size=2M]
+	Prefetchable memory behind bridge: [disabled]
+	Capabilities: [40] Express Root Port (Slot+), MSI 00
+	Capabilities: [80] Power Management version 3
+	Capabilities: [88] Subsystem: Intel Corporation Device 7270
+	Capabilities: [90] MSI: Enable+ Count=1/1 Maskable+ 64bit-
+	Capabilities: [100] Advanced Error Reporting
+	Capabilities: [280] Virtual Channel
+	Capabilities: [148] Access Control Services
+	Capabilities: [1e0] Precision Time Measurement
+	Capabilities: [200] Secondary PCI Express
+	Capabilities: [190] Downstream Port Containment
+	Kernel driver in use: pcieport
+
+> lspci -vs 00:0d.0:
+00:0d.0 PCI bridge: Intel Corporation Device 1bbd (rev 11) (prog-if 00 [Normal decode])
+	Flags: bus master, fast devsel, latency 0, IRQ 53, NUMA node 0, IOMMU group 4
+	Memory at 200ffff20000 (64-bit, non-prefetchable) [size=128K]
+	Bus: primary=00, secondary=01, subordinate=01, sec-latency=0
+	I/O behind bridge: [disabled]
+	Memory behind bridge: 95100000-952fffff [size=2M]
+	Prefetchable memory behind bridge: [disabled]
+	Capabilities: [40] Express Root Port (Slot+), MSI 00
+	Capabilities: [80] Power Management version 3
+	Capabilities: [88] Subsystem: Intel Corporation Device 7270
+	Capabilities: [90] MSI: Enable+ Count=1/1 Maskable+ 64bit-
+	Capabilities: [100] Advanced Error Reporting
+	Capabilities: [280] Virtual Channel
+	Capabilities: [148] Access Control Services
+	Capabilities: [1e0] Precision Time Measurement
+	Capabilities: [200] Secondary PCI Express
+	Capabilities: [190] Downstream Port Containment
+	Kernel driver in use: pcieport
+
+> lspci -vs 00:0f.0:
+00:0f.0 PCI bridge: Intel Corporation Device 1bbf (rev 11) (prog-if 00 [Normal decode])
+	Flags: bus master, fast devsel, latency 0, IRQ 54, NUMA node 0, IOMMU group 5
+	Memory at 200ffff00000 (64-bit, non-prefetchable) [size=128K]
+	Bus: primary=00, secondary=02, subordinate=03, sec-latency=0
+	I/O behind bridge: 00001000-00001fff [size=4K]
+	Memory behind bridge: 94000000-950fffff [size=17M]
+	Prefetchable memory behind bridge: [disabled]
+	Capabilities: [40] Express Root Port (Slot+), MSI 00
+	Capabilities: [80] Power Management version 3
+	Capabilities: [88] Subsystem: Intel Corporation Device 7270
+	Capabilities: [90] MSI: Enable+ Count=1/1 Maskable+ 64bit-
+	Capabilities: [100] Advanced Error Reporting
+	Capabilities: [280] Virtual Channel
+	Capabilities: [148] Access Control Services
+	Capabilities: [1e0] Precision Time Measurement
+	Capabilities: [200] Secondary PCI Express
+	Capabilities: [190] Downstream Port Containment
+	Kernel driver in use: pcieport
+
+> lspci -vs 00:0f.0:
+00:0f.0 PCI bridge: Intel Corporation Device 1bbf (rev 11) (prog-if 00 [Normal decode])
+	Flags: bus master, fast devsel, latency 0, IRQ 54, NUMA node 0, IOMMU group 5
+	Memory at 200ffff00000 (64-bit, non-prefetchable) [size=128K]
+	Bus: primary=00, secondary=02, subordinate=03, sec-latency=0
+	I/O behind bridge: 00001000-00001fff [size=4K]
+	Memory behind bridge: 94000000-950fffff [size=17M]
+	Prefetchable memory behind bridge: [disabled]
+	Capabilities: [40] Express Root Port (Slot+), MSI 00
+	Capabilities: [80] Power Management version 3
+	Capabilities: [88] Subsystem: Intel Corporation Device 7270
+	Capabilities: [90] MSI: Enable+ Count=1/1 Maskable+ 64bit-
+	Capabilities: [100] Advanced Error Reporting
+	Capabilities: [280] Virtual Channel
+	Capabilities: [148] Access Control Services
+	Capabilities: [1e0] Precision Time Measurement
+	Capabilities: [200] Secondary PCI Express
+	Capabilities: [190] Downstream Port Containment
+	Kernel driver in use: pcieport
+
+> lspci -vs 02:00.0:
+02:00.0 PCI bridge: ASPEED Technology, Inc. AST1150 PCI-to-PCI Bridge (rev 06) (prog-if 00 [Normal decode])
+	Flags: bus master, fast devsel, latency 0, IRQ 16, NUMA node 0, IOMMU group 14
+	Bus: primary=02, secondary=03, subordinate=03, sec-latency=0
+	I/O behind bridge: 00001000-00001fff [size=4K]
+	Memory behind bridge: 94000000-950fffff [size=17M]
+	Prefetchable memory behind bridge: [disabled]
+	Capabilities: [50] MSI: Enable- Count=1/32 Maskable- 64bit+
+	Capabilities: [78] Power Management version 3
+	Capabilities: [80] Express PCI-Express to PCI/PCI-X Bridge, MSI 00
+	Capabilities: [c0] Subsystem: ASPEED Technology, Inc. AST1150 PCI-to-PCI Bridge
+	Capabilities: [100] Virtual Channel
+	Capabilities: [800] Advanced Error Reporting
+
+> lspci -vs 02:00.0:
+02:00.0 PCI bridge: ASPEED Technology, Inc. AST1150 PCI-to-PCI Bridge (rev 06) (prog-if 00 [Normal decode])
+	Flags: bus master, fast devsel, latency 0, IRQ 16, NUMA node 0, IOMMU group 14
+	Bus: primary=02, secondary=03, subordinate=03, sec-latency=0
+	I/O behind bridge: 00001000-00001fff [size=4K]
+	Memory behind bridge: 94000000-950fffff [size=17M]
+	Prefetchable memory behind bridge: [disabled]
+	Capabilities: [50] MSI: Enable- Count=1/32 Maskable- 64bit+
+	Capabilities: [78] Power Management version 3
+	Capabilities: [80] Express PCI-Express to PCI/PCI-X Bridge, MSI 00
+	Capabilities: [c0] Subsystem: ASPEED Technology, Inc. AST1150 PCI-to-PCI Bridge
+	Capabilities: [100] Virtual Channel
+	Capabilities: [800] Advanced Error Reporting
+
+> lspci -vs 00:0d.0:
+00:0d.0 PCI bridge: Intel Corporation Device 1bbd (rev 11) (prog-if 00 [Normal decode])
+	Flags: bus master, fast devsel, latency 0, IRQ 53, NUMA node 0, IOMMU group 4
+	Memory at 200ffff20000 (64-bit, non-prefetchable) [size=128K]
+	Bus: primary=00, secondary=01, subordinate=01, sec-latency=0
+	I/O behind bridge: [disabled]
+	Memory behind bridge: 95100000-952fffff [size=2M]
+	Prefetchable memory behind bridge: [disabled]
+	Capabilities: [40] Express Root Port (Slot+), MSI 00
+	Capabilities: [80] Power Management version 3
+	Capabilities: [88] Subsystem: Intel Corporation Device 7270
+	Capabilities: [90] MSI: Enable+ Count=1/1 Maskable+ 64bit-
+	Capabilities: [100] Advanced Error Reporting
+	Capabilities: [280] Virtual Channel
+	Capabilities: [148] Access Control Services
+	Capabilities: [1e0] Precision Time Measurement
+	Capabilities: [200] Secondary PCI Express
+	Capabilities: [190] Downstream Port Containment
+	Kernel driver in use: pcieport
+
+> lspci -vs 00:0d.0:
+00:0d.0 PCI bridge: Intel Corporation Device 1bbd (rev 11) (prog-if 00 [Normal decode])
+	Flags: bus master, fast devsel, latency 0, IRQ 53, NUMA node 0, IOMMU group 4
+	Memory at 200ffff20000 (64-bit, non-prefetchable) [size=128K]
+	Bus: primary=00, secondary=01, subordinate=01, sec-latency=0
+	I/O behind bridge: [disabled]
+	Memory behind bridge: 95100000-952fffff [size=2M]
+	Prefetchable memory behind bridge: [disabled]
+	Capabilities: [40] Express Root Port (Slot+), MSI 00
+	Capabilities: [80] Power Management version 3
+	Capabilities: [88] Subsystem: Intel Corporation Device 7270
+	Capabilities: [90] MSI: Enable+ Count=1/1 Maskable+ 64bit-
+	Capabilities: [100] Advanced Error Reporting
+	Capabilities: [280] Virtual Channel
+	Capabilities: [148] Access Control Services
+	Capabilities: [1e0] Precision Time Measurement
+	Capabilities: [200] Secondary PCI Express
+	Capabilities: [190] Downstream Port Containment
+	Kernel driver in use: pcieport
+
+> lspci -vs 00:0d.0:
+00:0d.0 PCI bridge: Intel Corporation Device 1bbd (rev 11) (prog-if 00 [Normal decode])
+	Flags: bus master, fast devsel, latency 0, IRQ 53, NUMA node 0, IOMMU group 4
+	Memory at 200ffff20000 (64-bit, non-prefetchable) [size=128K]
+	Bus: primary=00, secondary=01, subordinate=01, sec-latency=0
+	I/O behind bridge: [disabled]
+	Memory behind bridge: 95100000-952fffff [size=2M]
+	Prefetchable memory behind bridge: [disabled]
+	Capabilities: [40] Express Root Port (Slot+), MSI 00
+	Capabilities: [80] Power Management version 3
+	Capabilities: [88] Subsystem: Intel Corporation Device 7270
+	Capabilities: [90] MSI: Enable+ Count=1/1 Maskable+ 64bit-
+	Capabilities: [100] Advanced Error Reporting
+	Capabilities: [280] Virtual Channel
+	Capabilities: [148] Access Control Services
+	Capabilities: [1e0] Precision Time Measurement
+	Capabilities: [200] Secondary PCI Express
+	Capabilities: [190] Downstream Port Containment
+	Kernel driver in use: pcieport
+
+> lspci -vs 01:00.0:
+01:00.0 Ethernet controller: Intel Corporation Ethernet Controller I225-LM (rev 03)
+	Subsystem: Intel Corporation Device 0000
+	Flags: bus master, fast devsel, latency 0, IRQ 16, NUMA node 0, IOMMU group 13
+	Memory at 95100000 (32-bit, non-prefetchable) [size=1M]
+	Memory at 95200000 (32-bit, non-prefetchable) [size=16K]
+	Capabilities: [40] Power Management version 3
+	Capabilities: [50] MSI: Enable- Count=1/1 Maskable+ 64bit+
+	Capabilities: [70] MSI-X: Enable+ Count=5 Masked-
+	Capabilities: [a0] Express Endpoint, MSI 00
+	Capabilities: [100] Advanced Error Reporting
+	Capabilities: [140] Device Serial Number 98-4f-ee-ff-ff-01-cd-d1
+	Capabilities: [1c0] Latency Tolerance Reporting
+	Capabilities: [1f0] Precision Time Measurement
+	Capabilities: [1e0] L1 PM Substates
+	Kernel driver in use: igc
+	Kernel modules: igc
+
+> lspci -vs 00:0f.0:
+00:0f.0 PCI bridge: Intel Corporation Device 1bbf (rev 11) (prog-if 00 [Normal decode])
+	Flags: bus master, fast devsel, latency 0, IRQ 54, NUMA node 0, IOMMU group 5
+	Memory at 200ffff00000 (64-bit, non-prefetchable) [size=128K]
+	Bus: primary=00, secondary=02, subordinate=03, sec-latency=0
+	I/O behind bridge: 00001000-00001fff [size=4K]
+	Memory behind bridge: 94000000-950fffff [size=17M]
+	Prefetchable memory behind bridge: [disabled]
+	Capabilities: [40] Express Root Port (Slot+), MSI 00
+	Capabilities: [80] Power Management version 3
+	Capabilities: [88] Subsystem: Intel Corporation Device 7270
+	Capabilities: [90] MSI: Enable+ Count=1/1 Maskable+ 64bit-
+	Capabilities: [100] Advanced Error Reporting
+	Capabilities: [280] Virtual Channel
+	Capabilities: [148] Access Control Services
+	Capabilities: [1e0] Precision Time Measurement
+	Capabilities: [200] Secondary PCI Express
+	Capabilities: [190] Downstream Port Containment
+	Kernel driver in use: pcieport
+
+> lspci -vs 00:0f.0:
+00:0f.0 PCI bridge: Intel Corporation Device 1bbf (rev 11) (prog-if 00 [Normal decode])
+	Flags: bus master, fast devsel, latency 0, IRQ 54, NUMA node 0, IOMMU group 5
+	Memory at 200ffff00000 (64-bit, non-prefetchable) [size=128K]
+	Bus: primary=00, secondary=02, subordinate=03, sec-latency=0
+	I/O behind bridge: 00001000-00001fff [size=4K]
+	Memory behind bridge: 94000000-950fffff [size=17M]
+	Prefetchable memory behind bridge: [disabled]
+	Capabilities: [40] Express Root Port (Slot+), MSI 00
+	Capabilities: [80] Power Management version 3
+	Capabilities: [88] Subsystem: Intel Corporation Device 7270
+	Capabilities: [90] MSI: Enable+ Count=1/1 Maskable+ 64bit-
+	Capabilities: [100] Advanced Error Reporting
+	Capabilities: [280] Virtual Channel
+	Capabilities: [148] Access Control Services
+	Capabilities: [1e0] Precision Time Measurement
+	Capabilities: [200] Secondary PCI Express
+	Capabilities: [190] Downstream Port Containment
+	Kernel driver in use: pcieport
+
+> lspci -vs 00:0f.0:
+00:0f.0 PCI bridge: Intel Corporation Device 1bbf (rev 11) (prog-if 00 [Normal decode])
+	Flags: bus master, fast devsel, latency 0, IRQ 54, NUMA node 0, IOMMU group 5
+	Memory at 200ffff00000 (64-bit, non-prefetchable) [size=128K]
+	Bus: primary=00, secondary=02, subordinate=03, sec-latency=0
+	I/O behind bridge: 00001000-00001fff [size=4K]
+	Memory behind bridge: 94000000-950fffff [size=17M]
+	Prefetchable memory behind bridge: [disabled]
+	Capabilities: [40] Express Root Port (Slot+), MSI 00
+	Capabilities: [80] Power Management version 3
+	Capabilities: [88] Subsystem: Intel Corporation Device 7270
+	Capabilities: [90] MSI: Enable+ Count=1/1 Maskable+ 64bit-
+	Capabilities: [100] Advanced Error Reporting
+	Capabilities: [280] Virtual Channel
+	Capabilities: [148] Access Control Services
+	Capabilities: [1e0] Precision Time Measurement
+	Capabilities: [200] Secondary PCI Express
+	Capabilities: [190] Downstream Port Containment
+	Kernel driver in use: pcieport
+
+> lspci -vs 02:00.0:
+02:00.0 PCI bridge: ASPEED Technology, Inc. AST1150 PCI-to-PCI Bridge (rev 06) (prog-if 00 [Normal decode])
+	Flags: bus master, fast devsel, latency 0, IRQ 16, NUMA node 0, IOMMU group 14
+	Bus: primary=02, secondary=03, subordinate=03, sec-latency=0
+	I/O behind bridge: 00001000-00001fff [size=4K]
+	Memory behind bridge: 94000000-950fffff [size=17M]
+	Prefetchable memory behind bridge: [disabled]
+	Capabilities: [50] MSI: Enable- Count=1/32 Maskable- 64bit+
+	Capabilities: [78] Power Management version 3
+	Capabilities: [80] Express PCI-Express to PCI/PCI-X Bridge, MSI 00
+	Capabilities: [c0] Subsystem: ASPEED Technology, Inc. AST1150 PCI-to-PCI Bridge
+	Capabilities: [100] Virtual Channel
+	Capabilities: [800] Advanced Error Reporting
+
+> lspci -vs 02:00.0:
+02:00.0 PCI bridge: ASPEED Technology, Inc. AST1150 PCI-to-PCI Bridge (rev 06) (prog-if 00 [Normal decode])
+	Flags: bus master, fast devsel, latency 0, IRQ 16, NUMA node 0, IOMMU group 14
+	Bus: primary=02, secondary=03, subordinate=03, sec-latency=0
+	I/O behind bridge: 00001000-00001fff [size=4K]
+	Memory behind bridge: 94000000-950fffff [size=17M]
+	Prefetchable memory behind bridge: [disabled]
+	Capabilities: [50] MSI: Enable- Count=1/32 Maskable- 64bit+
+	Capabilities: [78] Power Management version 3
+	Capabilities: [80] Express PCI-Express to PCI/PCI-X Bridge, MSI 00
+	Capabilities: [c0] Subsystem: ASPEED Technology, Inc. AST1150 PCI-to-PCI Bridge
+	Capabilities: [100] Virtual Channel
+	Capabilities: [800] Advanced Error Reporting
+
+> lspci -vs 03:00.0:
+03:00.0 VGA compatible controller: ASPEED Technology, Inc. ASPEED Graphics Family (rev 52) (prog-if 00 [VGA controller])
+	Subsystem: ASPEED Technology, Inc. ASPEED Graphics Family
+	Flags: medium devsel, IRQ 16, NUMA node 0, IOMMU group 14
+	Memory at 94000000 (32-bit, non-prefetchable) [size=16M]
+	Memory at 95000000 (32-bit, non-prefetchable) [size=256K]
+	I/O ports at 1000 [size=128]
+	Capabilities: [40] Power Management version 3
+	Capabilities: [50] MSI: Enable- Count=1/4 Maskable- 64bit+
+	Kernel driver in use: ast
+	Kernel modules: ast
+
+> lspci -vs 02:00.0:
+02:00.0 PCI bridge: ASPEED Technology, Inc. AST1150 PCI-to-PCI Bridge (rev 06) (prog-if 00 [Normal decode])
+	Flags: bus master, fast devsel, latency 0, IRQ 16, NUMA node 0, IOMMU group 14
+	Bus: primary=02, secondary=03, subordinate=03, sec-latency=0
+	I/O behind bridge: 00001000-00001fff [size=4K]
+	Memory behind bridge: 94000000-950fffff [size=17M]
+	Prefetchable memory behind bridge: [disabled]
+	Capabilities: [50] MSI: Enable- Count=1/32 Maskable- 64bit+
+	Capabilities: [78] Power Management version 3
+	Capabilities: [80] Express PCI-Express to PCI/PCI-X Bridge, MSI 00
+	Capabilities: [c0] Subsystem: ASPEED Technology, Inc. AST1150 PCI-to-PCI Bridge
+	Capabilities: [100] Virtual Channel
+	Capabilities: [800] Advanced Error Reporting
+
+> lspci -vs 02:00.0:
+02:00.0 PCI bridge: ASPEED Technology, Inc. AST1150 PCI-to-PCI Bridge (rev 06) (prog-if 00 [Normal decode])
+	Flags: bus master, fast devsel, latency 0, IRQ 16, NUMA node 0, IOMMU group 14
+	Bus: primary=02, secondary=03, subordinate=03, sec-latency=0
+	I/O behind bridge: 00001000-00001fff [size=4K]
+	Memory behind bridge: 94000000-950fffff [size=17M]
+	Prefetchable memory behind bridge: [disabled]
+	Capabilities: [50] MSI: Enable- Count=1/32 Maskable- 64bit+
+	Capabilities: [78] Power Management version 3
+	Capabilities: [80] Express PCI-Express to PCI/PCI-X Bridge, MSI 00
+	Capabilities: [c0] Subsystem: ASPEED Technology, Inc. AST1150 PCI-to-PCI Bridge
+	Capabilities: [100] Virtual Channel
+	Capabilities: [800] Advanced Error Reporting
+
+> lspci -vs 02:00.0:
+02:00.0 PCI bridge: ASPEED Technology, Inc. AST1150 PCI-to-PCI Bridge (rev 06) (prog-if 00 [Normal decode])
+	Flags: bus master, fast devsel, latency 0, IRQ 16, NUMA node 0, IOMMU group 14
+	Bus: primary=02, secondary=03, subordinate=03, sec-latency=0
+	I/O behind bridge: 00001000-00001fff [size=4K]
+	Memory behind bridge: 94000000-950fffff [size=17M]
+	Prefetchable memory behind bridge: [disabled]
+	Capabilities: [50] MSI: Enable- Count=1/32 Maskable- 64bit+
+	Capabilities: [78] Power Management version 3
+	Capabilities: [80] Express PCI-Express to PCI/PCI-X Bridge, MSI 00
+	Capabilities: [c0] Subsystem: ASPEED Technology, Inc. AST1150 PCI-to-PCI Bridge
+	Capabilities: [100] Virtual Channel
+	Capabilities: [800] Advanced Error Reporting
+
+> lspci -vs 03:00.0:
+03:00.0 VGA compatible controller: ASPEED Technology, Inc. ASPEED Graphics Family (rev 52) (prog-if 00 [VGA controller])
+	Subsystem: ASPEED Technology, Inc. ASPEED Graphics Family
+	Flags: medium devsel, IRQ 16, NUMA node 0, IOMMU group 14
+	Memory at 94000000 (32-bit, non-prefetchable) [size=16M]
+	Memory at 95000000 (32-bit, non-prefetchable) [size=256K]
+	I/O ports at 1000 [size=128]
+	Capabilities: [40] Power Management version 3
+	Capabilities: [50] MSI: Enable- Count=1/4 Maskable- 64bit+
+	Kernel driver in use: ast
+	Kernel modules: ast
+
+> lspci -vvs 00:0d.0:
+00:0d.0 PCI bridge: Intel Corporation Device 1bbd (rev 11) (prog-if 00 [Normal decode])
+	Control: I/O+ Mem+ BusMaster+ SpecCycle- MemWINV- VGASnoop- ParErr+ Stepping- SERR+ FastB2B- DisINTx+
+	Status: Cap+ 66MHz- UDF- FastB2B- ParErr- DEVSEL=fast >TAbort- <TAbort- <MAbort- >SERR- <PERR- INTx-
+	Latency: 0
+	Interrupt: pin A routed to IRQ 53
+	NUMA node: 0
+	IOMMU group: 4
+	Region 0: Memory at 200ffff20000 (64-bit, non-prefetchable) [size=128K]
+	Bus: primary=00, secondary=01, subordinate=01, sec-latency=0
+	I/O behind bridge: [disabled]
+	Memory behind bridge: 95100000-952fffff [size=2M]
+	Prefetchable memory behind bridge: [disabled]
+	Secondary status: 66MHz- FastB2B- ParErr- DEVSEL=fast >TAbort- <TAbort- <MAbort+ <SERR- <PERR-
+	BridgeCtl: Parity+ SERR+ NoISA- VGA- VGA16- MAbort- >Reset- FastB2B-
+		PriDiscTmr- SecDiscTmr- DiscTmrStat- DiscTmrSERREn-
+	Capabilities: [40] Express (v2) Root Port (Slot+), MSI 00
+		DevCap:	MaxPayload 256 bytes, PhantFunc 0
+			ExtTag+ RBE+
+		DevCtl:	CorrErr+ NonFatalErr+ FatalErr+ UnsupReq-
+			RlxdOrd- ExtTag+ PhantFunc- AuxPwr- NoSnoop-
+			MaxPayload 256 bytes, MaxReadReq 512 bytes
+		DevSta:	CorrErr- NonFatalErr- FatalErr- UnsupReq- AuxPwr- TransPend-
+		LnkCap:	Port #13, Speed 8GT/s, Width x1, ASPM L1, Exit Latency L1 <16us
+			ClockPM- Surprise+ LLActRep+ BwNot+ ASPMOptComp+
+		LnkCtl:	ASPM L1 Enabled; RCB 64 bytes, Disabled- CommClk+
+			ExtSynch- ClockPM- AutWidDis- BWInt- AutBWInt-
+		LnkSta:	Speed 5GT/s (downgraded), Width x1 (ok)
+			TrErr- Train- SlotClk+ DLActive+ BWMgmt+ ABWMgmt+
+		SltCap:	AttnBtn- PwrCtrl- MRL- AttnInd- PwrInd- HotPlug- Surprise-
+			Slot #245, PowerLimit 10.000W; Interlock- NoCompl-
+		SltCtl:	Enable: AttnBtn- PwrFlt- MRL- PresDet- CmdCplt- HPIrq- LinkChg-
+			Control: AttnInd Off, PwrInd Off, Power- Interlock-
+		SltSta:	Status: AttnBtn- PowerFlt- MRL- CmdCplt- PresDet+ Interlock-
+			Changed: MRL- PresDet- LinkState+
+		RootCap: CRSVisible+
+		RootCtl: ErrCorrectable+ ErrNon-Fatal+ ErrFatal+ PMEIntEna+ CRSVisible+
+		RootSta: PME ReqID 0000, PMEStatus- PMEPending-
+		DevCap2: Completion Timeout: Range ABC, TimeoutDis+ NROPrPrP+ LTR+
+			 10BitTagComp- 10BitTagReq- OBFF Not Supported, ExtFmt- EETLPPrefix-
+			 EmergencyPowerReduction Not Supported, EmergencyPowerReductionInit-
+			 FRS- LN System CLS Not Supported, TPHComp- ExtTPHComp- ARIFwd+
+			 AtomicOpsCap: Routing- 32bit- 64bit- 128bitCAS-
+		DevCtl2: Completion Timeout: 50us to 50ms, TimeoutDis- LTR+ OBFF Disabled, ARIFwd-
+			 AtomicOpsCtl: ReqEn- EgressBlck-
+		LnkCap2: Supported Link Speeds: 2.5-8GT/s, Crosslink- Retimer- 2Retimers- DRS-
+		LnkCtl2: Target Link Speed: 8GT/s, EnterCompliance- SpeedDis-
+			 Transmit Margin: Normal Operating Range, EnterModifiedCompliance- ComplianceSOS-
+			 Compliance De-emphasis: -6dB
+		LnkSta2: Current De-emphasis Level: -6dB, EqualizationComplete- EqualizationPhase1-
+			 EqualizationPhase2- EqualizationPhase3- LinkEqualizationRequest-
+			 Retimer- 2Retimers- CrosslinkRes: unsupported
+	Capabilities: [80] Power Management version 3
+		Flags: PMEClk- DSI- D1- D2- AuxCurrent=0mA PME(D0+,D1-,D2-,D3hot+,D3cold+)
+		Status: D0 NoSoftRst- PME-Enable- DSel=0 DScale=0 PME-
+	Capabilities: [88] Subsystem: Intel Corporation Device 7270
+	Capabilities: [90] MSI: Enable+ Count=1/1 Maskable+ 64bit-
+		Address: fee00238  Data: 0000
+		Masking: 00000000  Pending: 00000000
+	Capabilities: [100 v1] Advanced Error Reporting
+		UESta:	DLP- SDES- TLP- FCP- CmpltTO- CmpltAbrt- UnxCmplt- RxOF- MalfTLP- ECRC- UnsupReq- ACSViol-
+		UEMsk:	DLP- SDES+ TLP- FCP- CmpltTO- CmpltAbrt- UnxCmplt- RxOF- MalfTLP- ECRC+ UnsupReq+ ACSViol-
+		UESvrt:	DLP+ SDES- TLP+ FCP+ CmpltTO- CmpltAbrt- UnxCmplt- RxOF+ MalfTLP+ ECRC- UnsupReq- ACSViol-
+		CESta:	RxErr- BadTLP- BadDLLP- Rollover- Timeout- AdvNonFatalErr-
+		CEMsk:	RxErr- BadTLP- BadDLLP- Rollover- Timeout- AdvNonFatalErr-
+		AERCap:	First Error Pointer: 00, ECRCGenCap+ ECRCGenEn- ECRCChkCap- ECRCChkEn-
+			MultHdrRecCap- MultHdrRecEn- TLPPfxPres- HdrLogCap+
+		HeaderLog: 4a000001 01000004 fc390000 00000000
+		RootCmd: CERptEn- NFERptEn- FERptEn-
+		RootSta: CERcvd- MultCERcvd- UERcvd- MultUERcvd-
+			 FirstFatal- NonFatalMsg- FatalMsg- IntMsg 0
+		ErrorSrc: ERR_COR: 0000 ERR_FATAL/NONFATAL: 0000
+	Capabilities: [280 v1] Virtual Channel
+		Caps:	LPEVC=0 RefClk=100ns PATEntryBits=1
+		Arb:	Fixed- WRR32- WRR64- WRR128-
+		Ctrl:	ArbSelect=Fixed
+		Status:	InProgress-
+		VC0:	Caps:	PATOffset=00 MaxTimeSlots=1 RejSnoopTrans-
+			Arb:	Fixed- WRR32- WRR64- WRR128- TWRR128- WRR256-
+			Ctrl:	Enable+ ID=0 ArbSelect=Fixed TC/VC=7f
+			Status:	NegoPending- InProgress-
+	Capabilities: [148 v1] Access Control Services
+		ACSCap:	SrcValid+ TransBlk+ ReqRedir- CmpltRedir- UpstreamFwd+ EgressCtrl- DirectTrans-
+		ACSCtl:	SrcValid+ TransBlk- ReqRedir- CmpltRedir- UpstreamFwd+ EgressCtrl- DirectTrans-
+	Capabilities: [1e0 v1] Precision Time Measurement
+		PTMCap: Requester:- Responder:+ Root:+
+		PTMClockGranularity: 2ns
+		PTMControl: Enabled:+ RootSelected:+
+		PTMEffectiveGranularity: Unknown
+	Capabilities: [200 v1] Secondary PCI Express
+		LnkCtl3: LnkEquIntrruptEn- PerformEqu-
+		LaneErrStat: 0
+	Capabilities: [190 v1] Downstream Port Containment
+		DpcCap:	INT Msg #0, RPExt+ PoisonedTLP+ SwTrigger+ RP PIO Log 4, DL_ActiveErr+
+		DpcCtl:	Trigger:0 Cmpl- INT- ErrCor- PoisonedTLP- SwTrigger- DL_ActiveErr-
+		DpcSta:	Trigger- Reason:00 INT- RPBusy- TriggerExt:00 RP PIO ErrPtr:00
+		Source:	0000
+	Kernel driver in use: pcieport
+
+
+> lspci -vvs 00:0d.0:
+00:0d.0 PCI bridge: Intel Corporation Device 1bbd (rev 11) (prog-if 00 [Normal decode])
+	Control: I/O+ Mem+ BusMaster+ SpecCycle- MemWINV- VGASnoop- ParErr+ Stepping- SERR+ FastB2B- DisINTx+
+	Status: Cap+ 66MHz- UDF- FastB2B- ParErr- DEVSEL=fast >TAbort- <TAbort- <MAbort- >SERR- <PERR- INTx-
+	Latency: 0
+	Interrupt: pin A routed to IRQ 53
+	NUMA node: 0
+	IOMMU group: 4
+	Region 0: Memory at 200ffff20000 (64-bit, non-prefetchable) [size=128K]
+	Bus: primary=00, secondary=01, subordinate=01, sec-latency=0
+	I/O behind bridge: [disabled]
+	Memory behind bridge: 95100000-952fffff [size=2M]
+	Prefetchable memory behind bridge: [disabled]
+	Secondary status: 66MHz- FastB2B- ParErr- DEVSEL=fast >TAbort- <TAbort- <MAbort+ <SERR- <PERR-
+	BridgeCtl: Parity+ SERR+ NoISA- VGA- VGA16- MAbort- >Reset- FastB2B-
+		PriDiscTmr- SecDiscTmr- DiscTmrStat- DiscTmrSERREn-
+	Capabilities: [40] Express (v2) Root Port (Slot+), MSI 00
+		DevCap:	MaxPayload 256 bytes, PhantFunc 0
+			ExtTag+ RBE+
+		DevCtl:	CorrErr+ NonFatalErr+ FatalErr+ UnsupReq-
+			RlxdOrd- ExtTag+ PhantFunc- AuxPwr- NoSnoop-
+			MaxPayload 256 bytes, MaxReadReq 512 bytes
+		DevSta:	CorrErr- NonFatalErr- FatalErr- UnsupReq- AuxPwr- TransPend-
+		LnkCap:	Port #13, Speed 8GT/s, Width x1, ASPM L1, Exit Latency L1 <16us
+			ClockPM- Surprise+ LLActRep+ BwNot+ ASPMOptComp+
+		LnkCtl:	ASPM L1 Enabled; RCB 64 bytes, Disabled- CommClk+
+			ExtSynch- ClockPM- AutWidDis- BWInt- AutBWInt-
+		LnkSta:	Speed 5GT/s (downgraded), Width x1 (ok)
+			TrErr- Train- SlotClk+ DLActive+ BWMgmt+ ABWMgmt+
+		SltCap:	AttnBtn- PwrCtrl- MRL- AttnInd- PwrInd- HotPlug- Surprise-
+			Slot #245, PowerLimit 10.000W; Interlock- NoCompl-
+		SltCtl:	Enable: AttnBtn- PwrFlt- MRL- PresDet- CmdCplt- HPIrq- LinkChg-
+			Control: AttnInd Off, PwrInd Off, Power- Interlock-
+		SltSta:	Status: AttnBtn- PowerFlt- MRL- CmdCplt- PresDet+ Interlock-
+			Changed: MRL- PresDet- LinkState+
+		RootCap: CRSVisible+
+		RootCtl: ErrCorrectable+ ErrNon-Fatal+ ErrFatal+ PMEIntEna+ CRSVisible+
+		RootSta: PME ReqID 0000, PMEStatus- PMEPending-
+		DevCap2: Completion Timeout: Range ABC, TimeoutDis+ NROPrPrP+ LTR+
+			 10BitTagComp- 10BitTagReq- OBFF Not Supported, ExtFmt- EETLPPrefix-
+			 EmergencyPowerReduction Not Supported, EmergencyPowerReductionInit-
+			 FRS- LN System CLS Not Supported, TPHComp- ExtTPHComp- ARIFwd+
+			 AtomicOpsCap: Routing- 32bit- 64bit- 128bitCAS-
+		DevCtl2: Completion Timeout: 50us to 50ms, TimeoutDis- LTR+ OBFF Disabled, ARIFwd-
+			 AtomicOpsCtl: ReqEn- EgressBlck-
+		LnkCap2: Supported Link Speeds: 2.5-8GT/s, Crosslink- Retimer- 2Retimers- DRS-
+		LnkCtl2: Target Link Speed: 8GT/s, EnterCompliance- SpeedDis-
+			 Transmit Margin: Normal Operating Range, EnterModifiedCompliance- ComplianceSOS-
+			 Compliance De-emphasis: -6dB
+		LnkSta2: Current De-emphasis Level: -6dB, EqualizationComplete- EqualizationPhase1-
+			 EqualizationPhase2- EqualizationPhase3- LinkEqualizationRequest-
+			 Retimer- 2Retimers- CrosslinkRes: unsupported
+	Capabilities: [80] Power Management version 3
+		Flags: PMEClk- DSI- D1- D2- AuxCurrent=0mA PME(D0+,D1-,D2-,D3hot+,D3cold+)
+		Status: D0 NoSoftRst- PME-Enable- DSel=0 DScale=0 PME-
+	Capabilities: [88] Subsystem: Intel Corporation Device 7270
+	Capabilities: [90] MSI: Enable+ Count=1/1 Maskable+ 64bit-
+		Address: fee00238  Data: 0000
+		Masking: 00000000  Pending: 00000000
+	Capabilities: [100 v1] Advanced Error Reporting
+		UESta:	DLP- SDES- TLP- FCP- CmpltTO- CmpltAbrt- UnxCmplt- RxOF- MalfTLP- ECRC- UnsupReq- ACSViol-
+		UEMsk:	DLP- SDES+ TLP- FCP- CmpltTO- CmpltAbrt- UnxCmplt- RxOF- MalfTLP- ECRC+ UnsupReq+ ACSViol-
+		UESvrt:	DLP+ SDES- TLP+ FCP+ CmpltTO- CmpltAbrt- UnxCmplt- RxOF+ MalfTLP+ ECRC- UnsupReq- ACSViol-
+		CESta:	RxErr- BadTLP- BadDLLP- Rollover- Timeout- AdvNonFatalErr-
+		CEMsk:	RxErr- BadTLP- BadDLLP- Rollover- Timeout- AdvNonFatalErr-
+		AERCap:	First Error Pointer: 00, ECRCGenCap+ ECRCGenEn- ECRCChkCap- ECRCChkEn-
+			MultHdrRecCap- MultHdrRecEn- TLPPfxPres- HdrLogCap+
+		HeaderLog: 4a000001 01000004 fc390000 00000000
+		RootCmd: CERptEn- NFERptEn- FERptEn-
+		RootSta: CERcvd- MultCERcvd- UERcvd- MultUERcvd-
+			 FirstFatal- NonFatalMsg- FatalMsg- IntMsg 0
+		ErrorSrc: ERR_COR: 0000 ERR_FATAL/NONFATAL: 0000
+	Capabilities: [280 v1] Virtual Channel
+		Caps:	LPEVC=0 RefClk=100ns PATEntryBits=1
+		Arb:	Fixed- WRR32- WRR64- WRR128-
+		Ctrl:	ArbSelect=Fixed
+		Status:	InProgress-
+		VC0:	Caps:	PATOffset=00 MaxTimeSlots=1 RejSnoopTrans-
+			Arb:	Fixed- WRR32- WRR64- WRR128- TWRR128- WRR256-
+			Ctrl:	Enable+ ID=0 ArbSelect=Fixed TC/VC=7f
+			Status:	NegoPending- InProgress-
+	Capabilities: [148 v1] Access Control Services
+		ACSCap:	SrcValid+ TransBlk+ ReqRedir- CmpltRedir- UpstreamFwd+ EgressCtrl- DirectTrans-
+		ACSCtl:	SrcValid+ TransBlk- ReqRedir- CmpltRedir- UpstreamFwd+ EgressCtrl- DirectTrans-
+	Capabilities: [1e0 v1] Precision Time Measurement
+		PTMCap: Requester:- Responder:+ Root:+
+		PTMClockGranularity: 2ns
+		PTMControl: Enabled:+ RootSelected:+
+		PTMEffectiveGranularity: Unknown
+	Capabilities: [200 v1] Secondary PCI Express
+		LnkCtl3: LnkEquIntrruptEn- PerformEqu-
+		LaneErrStat: 0
+	Capabilities: [190 v1] Downstream Port Containment
+		DpcCap:	INT Msg #0, RPExt+ PoisonedTLP+ SwTrigger+ RP PIO Log 4, DL_ActiveErr+
+		DpcCtl:	Trigger:0 Cmpl- INT- ErrCor- PoisonedTLP- SwTrigger- DL_ActiveErr-
+		DpcSta:	Trigger- Reason:00 INT- RPBusy- TriggerExt:00 RP PIO ErrPtr:00
+		Source:	0000
+	Kernel driver in use: pcieport
+
+
+> lspci -vvs 00:0f.0:
+00:0f.0 PCI bridge: Intel Corporation Device 1bbf (rev 11) (prog-if 00 [Normal decode])
+	Control: I/O+ Mem+ BusMaster+ SpecCycle- MemWINV- VGASnoop- ParErr+ Stepping- SERR+ FastB2B- DisINTx+
+	Status: Cap+ 66MHz- UDF- FastB2B- ParErr- DEVSEL=fast >TAbort- <TAbort- <MAbort- >SERR- <PERR- INTx-
+	Latency: 0
+	Interrupt: pin A routed to IRQ 54
+	NUMA node: 0
+	IOMMU group: 5
+	Region 0: Memory at 200ffff00000 (64-bit, non-prefetchable) [size=128K]
+	Bus: primary=00, secondary=02, subordinate=03, sec-latency=0
+	I/O behind bridge: 00001000-00001fff [size=4K]
+	Memory behind bridge: 94000000-950fffff [size=17M]
+	Prefetchable memory behind bridge: [disabled]
+	Secondary status: 66MHz- FastB2B- ParErr- DEVSEL=fast >TAbort- <TAbort- <MAbort+ <SERR- <PERR-
+	BridgeCtl: Parity+ SERR+ NoISA- VGA- VGA16- MAbort- >Reset- FastB2B-
+		PriDiscTmr- SecDiscTmr- DiscTmrStat- DiscTmrSERREn-
+	Capabilities: [40] Express (v2) Root Port (Slot+), MSI 00
+		DevCap:	MaxPayload 256 bytes, PhantFunc 0
+			ExtTag+ RBE+
+		DevCtl:	CorrErr+ NonFatalErr+ FatalErr+ UnsupReq-
+			RlxdOrd- ExtTag+ PhantFunc- AuxPwr- NoSnoop-
+			MaxPayload 256 bytes, MaxReadReq 512 bytes
+		DevSta:	CorrErr- NonFatalErr- FatalErr- UnsupReq- AuxPwr- TransPend-
+		LnkCap:	Port #15, Speed 8GT/s, Width x1, ASPM not supported
+			ClockPM- Surprise+ LLActRep+ BwNot+ ASPMOptComp+
+		LnkCtl:	ASPM Disabled; RCB 64 bytes, Disabled- CommClk+
+			ExtSynch- ClockPM- AutWidDis- BWInt- AutBWInt-
+		LnkSta:	Speed 5GT/s (downgraded), Width x1 (ok)
+			TrErr- Train- SlotClk+ DLActive+ BWMgmt+ ABWMgmt+
+		SltCap:	AttnBtn- PwrCtrl- MRL- AttnInd- PwrInd- HotPlug- Surprise-
+			Slot #247, PowerLimit 10.000W; Interlock- NoCompl-
+		SltCtl:	Enable: AttnBtn- PwrFlt- MRL- PresDet- CmdCplt- HPIrq- LinkChg-
+			Control: AttnInd Off, PwrInd Off, Power- Interlock-
+		SltSta:	Status: AttnBtn- PowerFlt- MRL- CmdCplt- PresDet+ Interlock-
+			Changed: MRL- PresDet- LinkState+
+		RootCap: CRSVisible+
+		RootCtl: ErrCorrectable+ ErrNon-Fatal+ ErrFatal+ PMEIntEna+ CRSVisible+
+		RootSta: PME ReqID 0000, PMEStatus- PMEPending-
+		DevCap2: Completion Timeout: Range ABC, TimeoutDis+ NROPrPrP+ LTR+
+			 10BitTagComp- 10BitTagReq- OBFF Not Supported, ExtFmt- EETLPPrefix-
+			 EmergencyPowerReduction Not Supported, EmergencyPowerReductionInit-
+			 FRS- LN System CLS Not Supported, TPHComp- ExtTPHComp- ARIFwd+
+			 AtomicOpsCap: Routing- 32bit- 64bit- 128bitCAS-
+		DevCtl2: Completion Timeout: 50us to 50ms, TimeoutDis- LTR+ OBFF Disabled, ARIFwd-
+			 AtomicOpsCtl: ReqEn- EgressBlck-
+		LnkCap2: Supported Link Speeds: 2.5-8GT/s, Crosslink- Retimer- 2Retimers- DRS-
+		LnkCtl2: Target Link Speed: 8GT/s, EnterCompliance- SpeedDis-
+			 Transmit Margin: Normal Operating Range, EnterModifiedCompliance- ComplianceSOS-
+			 Compliance De-emphasis: -6dB
+		LnkSta2: Current De-emphasis Level: -6dB, EqualizationComplete- EqualizationPhase1-
+			 EqualizationPhase2- EqualizationPhase3- LinkEqualizationRequest-
+			 Retimer- 2Retimers- CrosslinkRes: unsupported
+	Capabilities: [80] Power Management version 3
+		Flags: PMEClk- DSI- D1- D2- AuxCurrent=0mA PME(D0+,D1-,D2-,D3hot+,D3cold+)
+		Status: D0 NoSoftRst- PME-Enable- DSel=0 DScale=0 PME-
+	Capabilities: [88] Subsystem: Intel Corporation Device 7270
+	Capabilities: [90] MSI: Enable+ Count=1/1 Maskable+ 64bit-
+		Address: fee00258  Data: 0000
+		Masking: 00000000  Pending: 00000000
+	Capabilities: [100 v1] Advanced Error Reporting
+		UESta:	DLP- SDES- TLP- FCP- CmpltTO- CmpltAbrt- UnxCmplt- RxOF- MalfTLP- ECRC- UnsupReq- ACSViol-
+		UEMsk:	DLP- SDES+ TLP- FCP- CmpltTO- CmpltAbrt- UnxCmplt- RxOF- MalfTLP- ECRC+ UnsupReq+ ACSViol-
+		UESvrt:	DLP+ SDES- TLP+ FCP+ CmpltTO- CmpltAbrt- UnxCmplt- RxOF+ MalfTLP+ ECRC- UnsupReq- ACSViol-
+		CESta:	RxErr- BadTLP- BadDLLP- Rollover- Timeout- AdvNonFatalErr-
+		CEMsk:	RxErr- BadTLP- BadDLLP- Rollover- Timeout- AdvNonFatalErr-
+		AERCap:	First Error Pointer: 00, ECRCGenCap+ ECRCGenEn- ECRCChkCap- ECRCChkEn-
+			MultHdrRecCap- MultHdrRecEn- TLPPfxPres- HdrLogCap+
+		HeaderLog: 4a000001 03000004 fc280000 00000000
+		RootCmd: CERptEn- NFERptEn- FERptEn-
+		RootSta: CERcvd- MultCERcvd- UERcvd- MultUERcvd-
+			 FirstFatal- NonFatalMsg- FatalMsg- IntMsg 0
+		ErrorSrc: ERR_COR: 0000 ERR_FATAL/NONFATAL: 0000
+	Capabilities: [280 v1] Virtual Channel
+		Caps:	LPEVC=0 RefClk=100ns PATEntryBits=1
+		Arb:	Fixed- WRR32- WRR64- WRR128-
+		Ctrl:	ArbSelect=Fixed
+		Status:	InProgress-
+		VC0:	Caps:	PATOffset=00 MaxTimeSlots=1 RejSnoopTrans-
+			Arb:	Fixed- WRR32- WRR64- WRR128- TWRR128- WRR256-
+			Ctrl:	Enable+ ID=0 ArbSelect=Fixed TC/VC=ff
+			Status:	NegoPending- InProgress-
+	Capabilities: [148 v1] Access Control Services
+		ACSCap:	SrcValid+ TransBlk+ ReqRedir- CmpltRedir- UpstreamFwd+ EgressCtrl- DirectTrans-
+		ACSCtl:	SrcValid+ TransBlk- ReqRedir- CmpltRedir- UpstreamFwd+ EgressCtrl- DirectTrans-
+	Capabilities: [1e0 v1] Precision Time Measurement
+		PTMCap: Requester:- Responder:+ Root:+
+		PTMClockGranularity: 2ns
+		PTMControl: Enabled:+ RootSelected:-
+		PTMEffectiveGranularity: Unknown
+	Capabilities: [200 v1] Secondary PCI Express
+		LnkCtl3: LnkEquIntrruptEn- PerformEqu-
+		LaneErrStat: 0
+	Capabilities: [190 v1] Downstream Port Containment
+		DpcCap:	INT Msg #0, RPExt+ PoisonedTLP+ SwTrigger+ RP PIO Log 4, DL_ActiveErr+
+		DpcCtl:	Trigger:0 Cmpl- INT- ErrCor- PoisonedTLP- SwTrigger- DL_ActiveErr-
+		DpcSta:	Trigger- Reason:00 INT- RPBusy- TriggerExt:00 RP PIO ErrPtr:00
+		Source:	0000
+	Kernel driver in use: pcieport
+
+
+> lspci -vvs 00:0f.0:
+00:0f.0 PCI bridge: Intel Corporation Device 1bbf (rev 11) (prog-if 00 [Normal decode])
+	Control: I/O+ Mem+ BusMaster+ SpecCycle- MemWINV- VGASnoop- ParErr+ Stepping- SERR+ FastB2B- DisINTx+
+	Status: Cap+ 66MHz- UDF- FastB2B- ParErr- DEVSEL=fast >TAbort- <TAbort- <MAbort- >SERR- <PERR- INTx-
+	Latency: 0
+	Interrupt: pin A routed to IRQ 54
+	NUMA node: 0
+	IOMMU group: 5
+	Region 0: Memory at 200ffff00000 (64-bit, non-prefetchable) [size=128K]
+	Bus: primary=00, secondary=02, subordinate=03, sec-latency=0
+	I/O behind bridge: 00001000-00001fff [size=4K]
+	Memory behind bridge: 94000000-950fffff [size=17M]
+	Prefetchable memory behind bridge: [disabled]
+	Secondary status: 66MHz- FastB2B- ParErr- DEVSEL=fast >TAbort- <TAbort- <MAbort+ <SERR- <PERR-
+	BridgeCtl: Parity+ SERR+ NoISA- VGA- VGA16- MAbort- >Reset- FastB2B-
+		PriDiscTmr- SecDiscTmr- DiscTmrStat- DiscTmrSERREn-
+	Capabilities: [40] Express (v2) Root Port (Slot+), MSI 00
+		DevCap:	MaxPayload 256 bytes, PhantFunc 0
+			ExtTag+ RBE+
+		DevCtl:	CorrErr+ NonFatalErr+ FatalErr+ UnsupReq-
+			RlxdOrd- ExtTag+ PhantFunc- AuxPwr- NoSnoop-
+			MaxPayload 256 bytes, MaxReadReq 512 bytes
+		DevSta:	CorrErr- NonFatalErr- FatalErr- UnsupReq- AuxPwr- TransPend-
+		LnkCap:	Port #15, Speed 8GT/s, Width x1, ASPM not supported
+			ClockPM- Surprise+ LLActRep+ BwNot+ ASPMOptComp+
+		LnkCtl:	ASPM Disabled; RCB 64 bytes, Disabled- CommClk+
+			ExtSynch- ClockPM- AutWidDis- BWInt- AutBWInt-
+		LnkSta:	Speed 5GT/s (downgraded), Width x1 (ok)
+			TrErr- Train- SlotClk+ DLActive+ BWMgmt+ ABWMgmt+
+		SltCap:	AttnBtn- PwrCtrl- MRL- AttnInd- PwrInd- HotPlug- Surprise-
+			Slot #247, PowerLimit 10.000W; Interlock- NoCompl-
+		SltCtl:	Enable: AttnBtn- PwrFlt- MRL- PresDet- CmdCplt- HPIrq- LinkChg-
+			Control: AttnInd Off, PwrInd Off, Power- Interlock-
+		SltSta:	Status: AttnBtn- PowerFlt- MRL- CmdCplt- PresDet+ Interlock-
+			Changed: MRL- PresDet- LinkState+
+		RootCap: CRSVisible+
+		RootCtl: ErrCorrectable+ ErrNon-Fatal+ ErrFatal+ PMEIntEna+ CRSVisible+
+		RootSta: PME ReqID 0000, PMEStatus- PMEPending-
+		DevCap2: Completion Timeout: Range ABC, TimeoutDis+ NROPrPrP+ LTR+
+			 10BitTagComp- 10BitTagReq- OBFF Not Supported, ExtFmt- EETLPPrefix-
+			 EmergencyPowerReduction Not Supported, EmergencyPowerReductionInit-
+			 FRS- LN System CLS Not Supported, TPHComp- ExtTPHComp- ARIFwd+
+			 AtomicOpsCap: Routing- 32bit- 64bit- 128bitCAS-
+		DevCtl2: Completion Timeout: 50us to 50ms, TimeoutDis- LTR+ OBFF Disabled, ARIFwd-
+			 AtomicOpsCtl: ReqEn- EgressBlck-
+		LnkCap2: Supported Link Speeds: 2.5-8GT/s, Crosslink- Retimer- 2Retimers- DRS-
+		LnkCtl2: Target Link Speed: 8GT/s, EnterCompliance- SpeedDis-
+			 Transmit Margin: Normal Operating Range, EnterModifiedCompliance- ComplianceSOS-
+			 Compliance De-emphasis: -6dB
+		LnkSta2: Current De-emphasis Level: -6dB, EqualizationComplete- EqualizationPhase1-
+			 EqualizationPhase2- EqualizationPhase3- LinkEqualizationRequest-
+			 Retimer- 2Retimers- CrosslinkRes: unsupported
+	Capabilities: [80] Power Management version 3
+		Flags: PMEClk- DSI- D1- D2- AuxCurrent=0mA PME(D0+,D1-,D2-,D3hot+,D3cold+)
+		Status: D0 NoSoftRst- PME-Enable- DSel=0 DScale=0 PME-
+	Capabilities: [88] Subsystem: Intel Corporation Device 7270
+	Capabilities: [90] MSI: Enable+ Count=1/1 Maskable+ 64bit-
+		Address: fee00258  Data: 0000
+		Masking: 00000000  Pending: 00000000
+	Capabilities: [100 v1] Advanced Error Reporting
+		UESta:	DLP- SDES- TLP- FCP- CmpltTO- CmpltAbrt- UnxCmplt- RxOF- MalfTLP- ECRC- UnsupReq- ACSViol-
+		UEMsk:	DLP- SDES+ TLP- FCP- CmpltTO- CmpltAbrt- UnxCmplt- RxOF- MalfTLP- ECRC+ UnsupReq+ ACSViol-
+		UESvrt:	DLP+ SDES- TLP+ FCP+ CmpltTO- CmpltAbrt- UnxCmplt- RxOF+ MalfTLP+ ECRC- UnsupReq- ACSViol-
+		CESta:	RxErr- BadTLP- BadDLLP- Rollover- Timeout- AdvNonFatalErr-
+		CEMsk:	RxErr- BadTLP- BadDLLP- Rollover- Timeout- AdvNonFatalErr-
+		AERCap:	First Error Pointer: 00, ECRCGenCap+ ECRCGenEn- ECRCChkCap- ECRCChkEn-
+			MultHdrRecCap- MultHdrRecEn- TLPPfxPres- HdrLogCap+
+		HeaderLog: 4a000001 03000004 fc280000 00000000
+		RootCmd: CERptEn- NFERptEn- FERptEn-
+		RootSta: CERcvd- MultCERcvd- UERcvd- MultUERcvd-
+			 FirstFatal- NonFatalMsg- FatalMsg- IntMsg 0
+		ErrorSrc: ERR_COR: 0000 ERR_FATAL/NONFATAL: 0000
+	Capabilities: [280 v1] Virtual Channel
+		Caps:	LPEVC=0 RefClk=100ns PATEntryBits=1
+		Arb:	Fixed- WRR32- WRR64- WRR128-
+		Ctrl:	ArbSelect=Fixed
+		Status:	InProgress-
+		VC0:	Caps:	PATOffset=00 MaxTimeSlots=1 RejSnoopTrans-
+			Arb:	Fixed- WRR32- WRR64- WRR128- TWRR128- WRR256-
+			Ctrl:	Enable+ ID=0 ArbSelect=Fixed TC/VC=ff
+			Status:	NegoPending- InProgress-
+	Capabilities: [148 v1] Access Control Services
+		ACSCap:	SrcValid+ TransBlk+ ReqRedir- CmpltRedir- UpstreamFwd+ EgressCtrl- DirectTrans-
+		ACSCtl:	SrcValid+ TransBlk- ReqRedir- CmpltRedir- UpstreamFwd+ EgressCtrl- DirectTrans-
+	Capabilities: [1e0 v1] Precision Time Measurement
+		PTMCap: Requester:- Responder:+ Root:+
+		PTMClockGranularity: 2ns
+		PTMControl: Enabled:+ RootSelected:-
+		PTMEffectiveGranularity: Unknown
+	Capabilities: [200 v1] Secondary PCI Express
+		LnkCtl3: LnkEquIntrruptEn- PerformEqu-
+		LaneErrStat: 0
+	Capabilities: [190 v1] Downstream Port Containment
+		DpcCap:	INT Msg #0, RPExt+ PoisonedTLP+ SwTrigger+ RP PIO Log 4, DL_ActiveErr+
+		DpcCtl:	Trigger:0 Cmpl- INT- ErrCor- PoisonedTLP- SwTrigger- DL_ActiveErr-
+		DpcSta:	Trigger- Reason:00 INT- RPBusy- TriggerExt:00 RP PIO ErrPtr:00
+		Source:	0000
+	Kernel driver in use: pcieport
+
+
+> lspci -vvs 02:00.0:
+02:00.0 PCI bridge: ASPEED Technology, Inc. AST1150 PCI-to-PCI Bridge (rev 06) (prog-if 00 [Normal decode])
+	Control: I/O+ Mem+ BusMaster+ SpecCycle- MemWINV- VGASnoop- ParErr+ Stepping- SERR+ FastB2B- DisINTx-
+	Status: Cap+ 66MHz- UDF- FastB2B- ParErr- DEVSEL=fast >TAbort- <TAbort- <MAbort- >SERR- <PERR- INTx-
+	Latency: 0
+	Interrupt: pin A routed to IRQ 16
+	NUMA node: 0
+	IOMMU group: 14
+	Bus: primary=02, secondary=03, subordinate=03, sec-latency=0
+	I/O behind bridge: 00001000-00001fff [size=4K]
+	Memory behind bridge: 94000000-950fffff [size=17M]
+	Prefetchable memory behind bridge: [disabled]
+	Secondary status: 66MHz+ FastB2B- ParErr- DEVSEL=medium >TAbort- <TAbort- <MAbort- <SERR- <PERR-
+	BridgeCtl: Parity+ SERR+ NoISA- VGA- VGA16- MAbort- >Reset- FastB2B-
+		PriDiscTmr- SecDiscTmr- DiscTmrStat- DiscTmrSERREn-
+	Capabilities: [50] MSI: Enable- Count=1/32 Maskable- 64bit+
+		Address: 0000000000000000  Data: 0000
+	Capabilities: [78] Power Management version 3
+		Flags: PMEClk- DSI- D1+ D2+ AuxCurrent=375mA PME(D0+,D1+,D2+,D3hot+,D3cold+)
+		Status: D0 NoSoftRst+ PME-Enable- DSel=0 DScale=0 PME-
+	Capabilities: [80] Express (v2) PCI-Express to PCI/PCI-X Bridge, MSI 00
+		DevCap:	MaxPayload 256 bytes, PhantFunc 0
+			ExtTag+ AttnBtn- AttnInd- PwrInd- RBE+ SlotPowerLimit 10.000W
+		DevCtl:	CorrErr+ NonFatalErr+ FatalErr+ UnsupReq-
+			RlxdOrd+ ExtTag+ PhantFunc- AuxPwr- NoSnoop+ BrConfRtry-
+			MaxPayload 256 bytes, MaxReadReq 512 bytes
+		DevSta:	CorrErr+ NonFatalErr- FatalErr- UnsupReq+ AuxPwr+ TransPend-
+		LnkCap:	Port #0, Speed 5GT/s, Width x1, ASPM L0s L1, Exit Latency L0s <512ns, L1 <2us
+			ClockPM- Surprise- LLActRep- BwNot- ASPMOptComp+
+		LnkCtl:	ASPM Disabled; RCB 64 bytes, Disabled- CommClk+
+			ExtSynch- ClockPM- AutWidDis- BWInt- AutBWInt-
+		LnkSta:	Speed 5GT/s (ok), Width x1 (ok)
+			TrErr- Train- SlotClk+ DLActive- BWMgmt- ABWMgmt-
+		DevCap2: Completion Timeout: Range ABCD, TimeoutDis+ NROPrPrP- LTR-
+			 10BitTagComp- 10BitTagReq- OBFF Not Supported, ExtFmt- EETLPPrefix-
+			 EmergencyPowerReduction Not Supported, EmergencyPowerReductionInit-
+			 FRS-
+		DevCtl2: Completion Timeout: 50us to 50ms, TimeoutDis- LTR- OBFF Disabled,
+		LnkCtl2: Target Link Speed: 5GT/s, EnterCompliance- SpeedDis-
+			 Transmit Margin: Normal Operating Range, EnterModifiedCompliance- ComplianceSOS-
+			 Compliance De-emphasis: -6dB
+		LnkSta2: Current De-emphasis Level: -6dB, EqualizationComplete- EqualizationPhase1-
+			 EqualizationPhase2- EqualizationPhase3- LinkEqualizationRequest-
+			 Retimer- 2Retimers- CrosslinkRes: unsupported
+	Capabilities: [c0] Subsystem: ASPEED Technology, Inc. AST1150 PCI-to-PCI Bridge
+	Capabilities: [100 v1] Virtual Channel
+		Caps:	LPEVC=0 RefClk=100ns PATEntryBits=1
+		Arb:	Fixed- WRR32- WRR64- WRR128-
+		Ctrl:	ArbSelect=Fixed
+		Status:	InProgress-
+		VC0:	Caps:	PATOffset=00 MaxTimeSlots=1 RejSnoopTrans-
+			Arb:	Fixed- WRR32- WRR64- WRR128- TWRR128- WRR256-
+			Ctrl:	Enable+ ID=0 ArbSelect=Fixed TC/VC=ff
+			Status:	NegoPending- InProgress-
+	Capabilities: [800 v1] Advanced Error Reporting
+		UESta:	DLP- SDES- TLP- FCP- CmpltTO- CmpltAbrt- UnxCmplt- RxOF- MalfTLP- ECRC- UnsupReq+ ACSViol-
+		UEMsk:	DLP- SDES- TLP- FCP- CmpltTO- CmpltAbrt- UnxCmplt- RxOF- MalfTLP- ECRC- UnsupReq+ ACSViol-
+		UESvrt:	DLP+ SDES+ TLP+ FCP+ CmpltTO- CmpltAbrt- UnxCmplt- RxOF+ MalfTLP+ ECRC- UnsupReq- ACSViol-
+		CESta:	RxErr- BadTLP- BadDLLP- Rollover- Timeout- AdvNonFatalErr+
+		CEMsk:	RxErr- BadTLP- BadDLLP- Rollover- Timeout- AdvNonFatalErr-
+		AERCap:	First Error Pointer: 00, ECRCGenCap- ECRCGenEn- ECRCChkCap- ECRCChkEn-
+			MultHdrRecCap- MultHdrRecEn- TLPPfxPres- HdrLogCap-
+		HeaderLog: 00000000 00000000 00000000 00000000
+
+
+> lspci -vvs 02:00.0:
+02:00.0 PCI bridge: ASPEED Technology, Inc. AST1150 PCI-to-PCI Bridge (rev 06) (prog-if 00 [Normal decode])
+	Control: I/O+ Mem+ BusMaster+ SpecCycle- MemWINV- VGASnoop- ParErr+ Stepping- SERR+ FastB2B- DisINTx-
+	Status: Cap+ 66MHz- UDF- FastB2B- ParErr- DEVSEL=fast >TAbort- <TAbort- <MAbort- >SERR- <PERR- INTx-
+	Latency: 0
+	Interrupt: pin A routed to IRQ 16
+	NUMA node: 0
+	IOMMU group: 14
+	Bus: primary=02, secondary=03, subordinate=03, sec-latency=0
+	I/O behind bridge: 00001000-00001fff [size=4K]
+	Memory behind bridge: 94000000-950fffff [size=17M]
+	Prefetchable memory behind bridge: [disabled]
+	Secondary status: 66MHz+ FastB2B- ParErr- DEVSEL=medium >TAbort- <TAbort- <MAbort- <SERR- <PERR-
+	BridgeCtl: Parity+ SERR+ NoISA- VGA- VGA16- MAbort- >Reset- FastB2B-
+		PriDiscTmr- SecDiscTmr- DiscTmrStat- DiscTmrSERREn-
+	Capabilities: [50] MSI: Enable- Count=1/32 Maskable- 64bit+
+		Address: 0000000000000000  Data: 0000
+	Capabilities: [78] Power Management version 3
+		Flags: PMEClk- DSI- D1+ D2+ AuxCurrent=375mA PME(D0+,D1+,D2+,D3hot+,D3cold+)
+		Status: D0 NoSoftRst+ PME-Enable- DSel=0 DScale=0 PME-
+	Capabilities: [80] Express (v2) PCI-Express to PCI/PCI-X Bridge, MSI 00
+		DevCap:	MaxPayload 256 bytes, PhantFunc 0
+			ExtTag+ AttnBtn- AttnInd- PwrInd- RBE+ SlotPowerLimit 10.000W
+		DevCtl:	CorrErr+ NonFatalErr+ FatalErr+ UnsupReq-
+			RlxdOrd+ ExtTag+ PhantFunc- AuxPwr- NoSnoop+ BrConfRtry-
+			MaxPayload 256 bytes, MaxReadReq 512 bytes
+		DevSta:	CorrErr+ NonFatalErr- FatalErr- UnsupReq+ AuxPwr+ TransPend-
+		LnkCap:	Port #0, Speed 5GT/s, Width x1, ASPM L0s L1, Exit Latency L0s <512ns, L1 <2us
+			ClockPM- Surprise- LLActRep- BwNot- ASPMOptComp+
+		LnkCtl:	ASPM Disabled; RCB 64 bytes, Disabled- CommClk+
+			ExtSynch- ClockPM- AutWidDis- BWInt- AutBWInt-
+		LnkSta:	Speed 5GT/s (ok), Width x1 (ok)
+			TrErr- Train- SlotClk+ DLActive- BWMgmt- ABWMgmt-
+		DevCap2: Completion Timeout: Range ABCD, TimeoutDis+ NROPrPrP- LTR-
+			 10BitTagComp- 10BitTagReq- OBFF Not Supported, ExtFmt- EETLPPrefix-
+			 EmergencyPowerReduction Not Supported, EmergencyPowerReductionInit-
+			 FRS-
+		DevCtl2: Completion Timeout: 50us to 50ms, TimeoutDis- LTR- OBFF Disabled,
+		LnkCtl2: Target Link Speed: 5GT/s, EnterCompliance- SpeedDis-
+			 Transmit Margin: Normal Operating Range, EnterModifiedCompliance- ComplianceSOS-
+			 Compliance De-emphasis: -6dB
+		LnkSta2: Current De-emphasis Level: -6dB, EqualizationComplete- EqualizationPhase1-
+			 EqualizationPhase2- EqualizationPhase3- LinkEqualizationRequest-
+			 Retimer- 2Retimers- CrosslinkRes: unsupported
+	Capabilities: [c0] Subsystem: ASPEED Technology, Inc. AST1150 PCI-to-PCI Bridge
+	Capabilities: [100 v1] Virtual Channel
+		Caps:	LPEVC=0 RefClk=100ns PATEntryBits=1
+		Arb:	Fixed- WRR32- WRR64- WRR128-
+		Ctrl:	ArbSelect=Fixed
+		Status:	InProgress-
+		VC0:	Caps:	PATOffset=00 MaxTimeSlots=1 RejSnoopTrans-
+			Arb:	Fixed- WRR32- WRR64- WRR128- TWRR128- WRR256-
+			Ctrl:	Enable+ ID=0 ArbSelect=Fixed TC/VC=ff
+			Status:	NegoPending- InProgress-
+	Capabilities: [800 v1] Advanced Error Reporting
+		UESta:	DLP- SDES- TLP- FCP- CmpltTO- CmpltAbrt- UnxCmplt- RxOF- MalfTLP- ECRC- UnsupReq+ ACSViol-
+		UEMsk:	DLP- SDES- TLP- FCP- CmpltTO- CmpltAbrt- UnxCmplt- RxOF- MalfTLP- ECRC- UnsupReq+ ACSViol-
+		UESvrt:	DLP+ SDES+ TLP+ FCP+ CmpltTO- CmpltAbrt- UnxCmplt- RxOF+ MalfTLP+ ECRC- UnsupReq- ACSViol-
+		CESta:	RxErr- BadTLP- BadDLLP- Rollover- Timeout- AdvNonFatalErr+
+		CEMsk:	RxErr- BadTLP- BadDLLP- Rollover- Timeout- AdvNonFatalErr-
+		AERCap:	First Error Pointer: 00, ECRCGenCap- ECRCGenEn- ECRCChkCap- ECRCChkEn-
+			MultHdrRecCap- MultHdrRecEn- TLPPfxPres- HdrLogCap-
+		HeaderLog: 00000000 00000000 00000000 00000000
+
+
+> lspci -vvs 01:00.0:
+01:00.0 Ethernet controller: Intel Corporation Ethernet Controller I225-LM (rev 03)
+	Subsystem: Intel Corporation Device 0000
+	Control: I/O- Mem+ BusMaster+ SpecCycle- MemWINV- VGASnoop- ParErr+ Stepping- SERR+ FastB2B- DisINTx+
+	Status: Cap+ 66MHz- UDF- FastB2B- ParErr- DEVSEL=fast >TAbort- <TAbort- <MAbort- >SERR- <PERR- INTx-
+	Latency: 0, Cache Line Size: 128 bytes
+	Interrupt: pin A routed to IRQ 16
+	NUMA node: 0
+	IOMMU group: 13
+	Region 0: Memory at 95100000 (32-bit, non-prefetchable) [size=1M]
+	Region 3: Memory at 95200000 (32-bit, non-prefetchable) [size=16K]
+	Capabilities: [40] Power Management version 3
+		Flags: PMEClk- DSI+ D1- D2- AuxCurrent=0mA PME(D0+,D1-,D2-,D3hot+,D3cold+)
+		Status: D0 NoSoftRst+ PME-Enable- DSel=0 DScale=1 PME-
+	Capabilities: [50] MSI: Enable- Count=1/1 Maskable+ 64bit+
+		Address: 0000000000000000  Data: 0000
+		Masking: 00000000  Pending: 00000000
+	Capabilities: [70] MSI-X: Enable+ Count=5 Masked-
+		Vector table: BAR=3 offset=00000000
+		PBA: BAR=3 offset=00002000
+	Capabilities: [a0] Express (v2) Endpoint, MSI 00
+		DevCap:	MaxPayload 512 bytes, PhantFunc 0, Latency L0s <512ns, L1 <64us
+			ExtTag- AttnBtn- AttnInd- PwrInd- RBE+ FLReset+ SlotPowerLimit 0.000W
+		DevCtl:	CorrErr+ NonFatalErr+ FatalErr+ UnsupReq-
+			RlxdOrd+ ExtTag- PhantFunc- AuxPwr- NoSnoop+ FLReset-
+			MaxPayload 256 bytes, MaxReadReq 512 bytes
+		DevSta:	CorrErr+ NonFatalErr- FatalErr- UnsupReq+ AuxPwr+ TransPend-
+		LnkCap:	Port #1, Speed 5GT/s, Width x1, ASPM L1, Exit Latency L1 <4us
+			ClockPM- Surprise- LLActRep- BwNot- ASPMOptComp+
+		LnkCtl:	ASPM L1 Enabled; RCB 64 bytes, Disabled- CommClk+
+			ExtSynch- ClockPM- AutWidDis- BWInt- AutBWInt-
+		LnkSta:	Speed 5GT/s (ok), Width x1 (ok)
+			TrErr- Train- SlotClk+ DLActive- BWMgmt- ABWMgmt-
+		DevCap2: Completion Timeout: Range ABCD, TimeoutDis+ NROPrPrP- LTR+
+			 10BitTagComp- 10BitTagReq- OBFF Not Supported, ExtFmt- EETLPPrefix-
+			 EmergencyPowerReduction Not Supported, EmergencyPowerReductionInit-
+			 FRS- TPHComp- ExtTPHComp-
+			 AtomicOpsCap: 32bit- 64bit- 128bitCAS-
+		DevCtl2: Completion Timeout: 50us to 50ms, TimeoutDis- LTR+ OBFF Disabled,
+			 AtomicOpsCtl: ReqEn-
+		LnkCtl2: Target Link Speed: 5GT/s, EnterCompliance- SpeedDis-
+			 Transmit Margin: Normal Operating Range, EnterModifiedCompliance- ComplianceSOS-
+			 Compliance De-emphasis: -6dB
+		LnkSta2: Current De-emphasis Level: -6dB, EqualizationComplete- EqualizationPhase1-
+			 EqualizationPhase2- EqualizationPhase3- LinkEqualizationRequest-
+			 Retimer- 2Retimers- CrosslinkRes: unsupported
+	Capabilities: [100 v2] Advanced Error Reporting
+		UESta:	DLP- SDES- TLP- FCP- CmpltTO- CmpltAbrt- UnxCmplt- RxOF- MalfTLP- ECRC- UnsupReq+ ACSViol-
+		UEMsk:	DLP- SDES- TLP- FCP- CmpltTO- CmpltAbrt- UnxCmplt- RxOF- MalfTLP- ECRC+ UnsupReq+ ACSViol-
+		UESvrt:	DLP+ SDES+ TLP+ FCP+ CmpltTO- CmpltAbrt- UnxCmplt- RxOF+ MalfTLP+ ECRC- UnsupReq- ACSViol-
+		CESta:	RxErr- BadTLP- BadDLLP- Rollover- Timeout- AdvNonFatalErr+
+		CEMsk:	RxErr- BadTLP- BadDLLP- Rollover- Timeout- AdvNonFatalErr-
+		AERCap:	First Error Pointer: 00, ECRCGenCap+ ECRCGenEn- ECRCChkCap+ ECRCChkEn-
+			MultHdrRecCap- MultHdrRecEn- TLPPfxPres- HdrLogCap-
+		HeaderLog: 00000000 00000000 00000000 00000000
+	Capabilities: [140 v1] Device Serial Number 98-4f-ee-ff-ff-01-cd-d1
+	Capabilities: [1c0 v1] Latency Tolerance Reporting
+		Max snoop latency: 3145728ns
+		Max no snoop latency: 3145728ns
+	Capabilities: [1f0 v1] Precision Time Measurement
+		PTMCap: Requester:+ Responder:- Root:-
+		PTMClockGranularity: 4ns
+		PTMControl: Enabled:+ RootSelected:-
+		PTMEffectiveGranularity: 2ns
+	Capabilities: [1e0 v1] L1 PM Substates
+		L1SubCap: PCI-PM_L1.2- PCI-PM_L1.1+ ASPM_L1.2- ASPM_L1.1+ L1_PM_Substates+
+		L1SubCtl1: PCI-PM_L1.2- PCI-PM_L1.1- ASPM_L1.2- ASPM_L1.1-
+		L1SubCtl2:
+	Kernel driver in use: igc
+	Kernel modules: igc
+
+
+> lspci -vvs 01:00.0:
+01:00.0 Ethernet controller: Intel Corporation Ethernet Controller I225-LM (rev 03)
+	Subsystem: Intel Corporation Device 0000
+	Control: I/O- Mem+ BusMaster+ SpecCycle- MemWINV- VGASnoop- ParErr+ Stepping- SERR+ FastB2B- DisINTx+
+	Status: Cap+ 66MHz- UDF- FastB2B- ParErr- DEVSEL=fast >TAbort- <TAbort- <MAbort- >SERR- <PERR- INTx-
+	Latency: 0, Cache Line Size: 128 bytes
+	Interrupt: pin A routed to IRQ 16
+	NUMA node: 0
+	IOMMU group: 13
+	Region 0: Memory at 95100000 (32-bit, non-prefetchable) [size=1M]
+	Region 3: Memory at 95200000 (32-bit, non-prefetchable) [size=16K]
+	Capabilities: [40] Power Management version 3
+		Flags: PMEClk- DSI+ D1- D2- AuxCurrent=0mA PME(D0+,D1-,D2-,D3hot+,D3cold+)
+		Status: D0 NoSoftRst+ PME-Enable- DSel=0 DScale=1 PME-
+	Capabilities: [50] MSI: Enable- Count=1/1 Maskable+ 64bit+
+		Address: 0000000000000000  Data: 0000
+		Masking: 00000000  Pending: 00000000
+	Capabilities: [70] MSI-X: Enable+ Count=5 Masked-
+		Vector table: BAR=3 offset=00000000
+		PBA: BAR=3 offset=00002000
+	Capabilities: [a0] Express (v2) Endpoint, MSI 00
+		DevCap:	MaxPayload 512 bytes, PhantFunc 0, Latency L0s <512ns, L1 <64us
+			ExtTag- AttnBtn- AttnInd- PwrInd- RBE+ FLReset+ SlotPowerLimit 0.000W
+		DevCtl:	CorrErr+ NonFatalErr+ FatalErr+ UnsupReq-
+			RlxdOrd+ ExtTag- PhantFunc- AuxPwr- NoSnoop+ FLReset-
+			MaxPayload 256 bytes, MaxReadReq 512 bytes
+		DevSta:	CorrErr+ NonFatalErr- FatalErr- UnsupReq+ AuxPwr+ TransPend-
+		LnkCap:	Port #1, Speed 5GT/s, Width x1, ASPM L1, Exit Latency L1 <4us
+			ClockPM- Surprise- LLActRep- BwNot- ASPMOptComp+
+		LnkCtl:	ASPM L1 Enabled; RCB 64 bytes, Disabled- CommClk+
+			ExtSynch- ClockPM- AutWidDis- BWInt- AutBWInt-
+		LnkSta:	Speed 5GT/s (ok), Width x1 (ok)
+			TrErr- Train- SlotClk+ DLActive- BWMgmt- ABWMgmt-
+		DevCap2: Completion Timeout: Range ABCD, TimeoutDis+ NROPrPrP- LTR+
+			 10BitTagComp- 10BitTagReq- OBFF Not Supported, ExtFmt- EETLPPrefix-
+			 EmergencyPowerReduction Not Supported, EmergencyPowerReductionInit-
+			 FRS- TPHComp- ExtTPHComp-
+			 AtomicOpsCap: 32bit- 64bit- 128bitCAS-
+		DevCtl2: Completion Timeout: 50us to 50ms, TimeoutDis- LTR+ OBFF Disabled,
+			 AtomicOpsCtl: ReqEn-
+		LnkCtl2: Target Link Speed: 5GT/s, EnterCompliance- SpeedDis-
+			 Transmit Margin: Normal Operating Range, EnterModifiedCompliance- ComplianceSOS-
+			 Compliance De-emphasis: -6dB
+		LnkSta2: Current De-emphasis Level: -6dB, EqualizationComplete- EqualizationPhase1-
+			 EqualizationPhase2- EqualizationPhase3- LinkEqualizationRequest-
+			 Retimer- 2Retimers- CrosslinkRes: unsupported
+	Capabilities: [100 v2] Advanced Error Reporting
+		UESta:	DLP- SDES- TLP- FCP- CmpltTO- CmpltAbrt- UnxCmplt- RxOF- MalfTLP- ECRC- UnsupReq+ ACSViol-
+		UEMsk:	DLP- SDES- TLP- FCP- CmpltTO- CmpltAbrt- UnxCmplt- RxOF- MalfTLP- ECRC+ UnsupReq+ ACSViol-
+		UESvrt:	DLP+ SDES+ TLP+ FCP+ CmpltTO- CmpltAbrt- UnxCmplt- RxOF+ MalfTLP+ ECRC- UnsupReq- ACSViol-
+		CESta:	RxErr- BadTLP- BadDLLP- Rollover- Timeout- AdvNonFatalErr+
+		CEMsk:	RxErr- BadTLP- BadDLLP- Rollover- Timeout- AdvNonFatalErr-
+		AERCap:	First Error Pointer: 00, ECRCGenCap+ ECRCGenEn- ECRCChkCap+ ECRCChkEn-
+			MultHdrRecCap- MultHdrRecEn- TLPPfxPres- HdrLogCap-
+		HeaderLog: 00000000 00000000 00000000 00000000
+	Capabilities: [140 v1] Device Serial Number 98-4f-ee-ff-ff-01-cd-d1
+	Capabilities: [1c0 v1] Latency Tolerance Reporting
+		Max snoop latency: 3145728ns
+		Max no snoop latency: 3145728ns
+	Capabilities: [1f0 v1] Precision Time Measurement
+		PTMCap: Requester:+ Responder:- Root:-
+		PTMClockGranularity: 4ns
+		PTMControl: Enabled:+ RootSelected:-
+		PTMEffectiveGranularity: 2ns
+	Capabilities: [1e0 v1] L1 PM Substates
+		L1SubCap: PCI-PM_L1.2- PCI-PM_L1.1+ ASPM_L1.2- ASPM_L1.1+ L1_PM_Substates+
+		L1SubCtl1: PCI-PM_L1.2- PCI-PM_L1.1- ASPM_L1.2- ASPM_L1.1-
+		L1SubCtl2:
+	Kernel driver in use: igc
+	Kernel modules: igc
+
+
+> lspci -vvs 02:00.0:
+02:00.0 PCI bridge: ASPEED Technology, Inc. AST1150 PCI-to-PCI Bridge (rev 06) (prog-if 00 [Normal decode])
+	Control: I/O+ Mem+ BusMaster+ SpecCycle- MemWINV- VGASnoop- ParErr+ Stepping- SERR+ FastB2B- DisINTx-
+	Status: Cap+ 66MHz- UDF- FastB2B- ParErr- DEVSEL=fast >TAbort- <TAbort- <MAbort- >SERR- <PERR- INTx-
+	Latency: 0
+	Interrupt: pin A routed to IRQ 16
+	NUMA node: 0
+	IOMMU group: 14
+	Bus: primary=02, secondary=03, subordinate=03, sec-latency=0
+	I/O behind bridge: 00001000-00001fff [size=4K]
+	Memory behind bridge: 94000000-950fffff [size=17M]
+	Prefetchable memory behind bridge: [disabled]
+	Secondary status: 66MHz+ FastB2B- ParErr- DEVSEL=medium >TAbort- <TAbort- <MAbort- <SERR- <PERR-
+	BridgeCtl: Parity+ SERR+ NoISA- VGA- VGA16- MAbort- >Reset- FastB2B-
+		PriDiscTmr- SecDiscTmr- DiscTmrStat- DiscTmrSERREn-
+	Capabilities: [50] MSI: Enable- Count=1/32 Maskable- 64bit+
+		Address: 0000000000000000  Data: 0000
+	Capabilities: [78] Power Management version 3
+		Flags: PMEClk- DSI- D1+ D2+ AuxCurrent=375mA PME(D0+,D1+,D2+,D3hot+,D3cold+)
+		Status: D0 NoSoftRst+ PME-Enable- DSel=0 DScale=0 PME-
+	Capabilities: [80] Express (v2) PCI-Express to PCI/PCI-X Bridge, MSI 00
+		DevCap:	MaxPayload 256 bytes, PhantFunc 0
+			ExtTag+ AttnBtn- AttnInd- PwrInd- RBE+ SlotPowerLimit 10.000W
+		DevCtl:	CorrErr+ NonFatalErr+ FatalErr+ UnsupReq-
+			RlxdOrd+ ExtTag+ PhantFunc- AuxPwr- NoSnoop+ BrConfRtry-
+			MaxPayload 256 bytes, MaxReadReq 512 bytes
+		DevSta:	CorrErr+ NonFatalErr- FatalErr- UnsupReq+ AuxPwr+ TransPend-
+		LnkCap:	Port #0, Speed 5GT/s, Width x1, ASPM L0s L1, Exit Latency L0s <512ns, L1 <2us
+			ClockPM- Surprise- LLActRep- BwNot- ASPMOptComp+
+		LnkCtl:	ASPM Disabled; RCB 64 bytes, Disabled- CommClk+
+			ExtSynch- ClockPM- AutWidDis- BWInt- AutBWInt-
+		LnkSta:	Speed 5GT/s (ok), Width x1 (ok)
+			TrErr- Train- SlotClk+ DLActive- BWMgmt- ABWMgmt-
+		DevCap2: Completion Timeout: Range ABCD, TimeoutDis+ NROPrPrP- LTR-
+			 10BitTagComp- 10BitTagReq- OBFF Not Supported, ExtFmt- EETLPPrefix-
+			 EmergencyPowerReduction Not Supported, EmergencyPowerReductionInit-
+			 FRS-
+		DevCtl2: Completion Timeout: 50us to 50ms, TimeoutDis- LTR- OBFF Disabled,
+		LnkCtl2: Target Link Speed: 5GT/s, EnterCompliance- SpeedDis-
+			 Transmit Margin: Normal Operating Range, EnterModifiedCompliance- ComplianceSOS-
+			 Compliance De-emphasis: -6dB
+		LnkSta2: Current De-emphasis Level: -6dB, EqualizationComplete- EqualizationPhase1-
+			 EqualizationPhase2- EqualizationPhase3- LinkEqualizationRequest-
+			 Retimer- 2Retimers- CrosslinkRes: unsupported
+	Capabilities: [c0] Subsystem: ASPEED Technology, Inc. AST1150 PCI-to-PCI Bridge
+	Capabilities: [100 v1] Virtual Channel
+		Caps:	LPEVC=0 RefClk=100ns PATEntryBits=1
+		Arb:	Fixed- WRR32- WRR64- WRR128-
+		Ctrl:	ArbSelect=Fixed
+		Status:	InProgress-
+		VC0:	Caps:	PATOffset=00 MaxTimeSlots=1 RejSnoopTrans-
+			Arb:	Fixed- WRR32- WRR64- WRR128- TWRR128- WRR256-
+			Ctrl:	Enable+ ID=0 ArbSelect=Fixed TC/VC=ff
+			Status:	NegoPending- InProgress-
+	Capabilities: [800 v1] Advanced Error Reporting
+		UESta:	DLP- SDES- TLP- FCP- CmpltTO- CmpltAbrt- UnxCmplt- RxOF- MalfTLP- ECRC- UnsupReq+ ACSViol-
+		UEMsk:	DLP- SDES- TLP- FCP- CmpltTO- CmpltAbrt- UnxCmplt- RxOF- MalfTLP- ECRC- UnsupReq+ ACSViol-
+		UESvrt:	DLP+ SDES+ TLP+ FCP+ CmpltTO- CmpltAbrt- UnxCmplt- RxOF+ MalfTLP+ ECRC- UnsupReq- ACSViol-
+		CESta:	RxErr- BadTLP- BadDLLP- Rollover- Timeout- AdvNonFatalErr+
+		CEMsk:	RxErr- BadTLP- BadDLLP- Rollover- Timeout- AdvNonFatalErr-
+		AERCap:	First Error Pointer: 00, ECRCGenCap- ECRCGenEn- ECRCChkCap- ECRCChkEn-
+			MultHdrRecCap- MultHdrRecEn- TLPPfxPres- HdrLogCap-
+		HeaderLog: 00000000 00000000 00000000 00000000
+
+
+> lspci -vvs 02:00.0:
+02:00.0 PCI bridge: ASPEED Technology, Inc. AST1150 PCI-to-PCI Bridge (rev 06) (prog-if 00 [Normal decode])
+	Control: I/O+ Mem+ BusMaster+ SpecCycle- MemWINV- VGASnoop- ParErr+ Stepping- SERR+ FastB2B- DisINTx-
+	Status: Cap+ 66MHz- UDF- FastB2B- ParErr- DEVSEL=fast >TAbort- <TAbort- <MAbort- >SERR- <PERR- INTx-
+	Latency: 0
+	Interrupt: pin A routed to IRQ 16
+	NUMA node: 0
+	IOMMU group: 14
+	Bus: primary=02, secondary=03, subordinate=03, sec-latency=0
+	I/O behind bridge: 00001000-00001fff [size=4K]
+	Memory behind bridge: 94000000-950fffff [size=17M]
+	Prefetchable memory behind bridge: [disabled]
+	Secondary status: 66MHz+ FastB2B- ParErr- DEVSEL=medium >TAbort- <TAbort- <MAbort- <SERR- <PERR-
+	BridgeCtl: Parity+ SERR+ NoISA- VGA- VGA16- MAbort- >Reset- FastB2B-
+		PriDiscTmr- SecDiscTmr- DiscTmrStat- DiscTmrSERREn-
+	Capabilities: [50] MSI: Enable- Count=1/32 Maskable- 64bit+
+		Address: 0000000000000000  Data: 0000
+	Capabilities: [78] Power Management version 3
+		Flags: PMEClk- DSI- D1+ D2+ AuxCurrent=375mA PME(D0+,D1+,D2+,D3hot+,D3cold+)
+		Status: D0 NoSoftRst+ PME-Enable- DSel=0 DScale=0 PME-
+	Capabilities: [80] Express (v2) PCI-Express to PCI/PCI-X Bridge, MSI 00
+		DevCap:	MaxPayload 256 bytes, PhantFunc 0
+			ExtTag+ AttnBtn- AttnInd- PwrInd- RBE+ SlotPowerLimit 10.000W
+		DevCtl:	CorrErr+ NonFatalErr+ FatalErr+ UnsupReq-
+			RlxdOrd+ ExtTag+ PhantFunc- AuxPwr- NoSnoop+ BrConfRtry-
+			MaxPayload 256 bytes, MaxReadReq 512 bytes
+		DevSta:	CorrErr+ NonFatalErr- FatalErr- UnsupReq+ AuxPwr+ TransPend-
+		LnkCap:	Port #0, Speed 5GT/s, Width x1, ASPM L0s L1, Exit Latency L0s <512ns, L1 <2us
+			ClockPM- Surprise- LLActRep- BwNot- ASPMOptComp+
+		LnkCtl:	ASPM Disabled; RCB 64 bytes, Disabled- CommClk+
+			ExtSynch- ClockPM- AutWidDis- BWInt- AutBWInt-
+		LnkSta:	Speed 5GT/s (ok), Width x1 (ok)
+			TrErr- Train- SlotClk+ DLActive- BWMgmt- ABWMgmt-
+		DevCap2: Completion Timeout: Range ABCD, TimeoutDis+ NROPrPrP- LTR-
+			 10BitTagComp- 10BitTagReq- OBFF Not Supported, ExtFmt- EETLPPrefix-
+			 EmergencyPowerReduction Not Supported, EmergencyPowerReductionInit-
+			 FRS-
+		DevCtl2: Completion Timeout: 50us to 50ms, TimeoutDis- LTR- OBFF Disabled,
+		LnkCtl2: Target Link Speed: 5GT/s, EnterCompliance- SpeedDis-
+			 Transmit Margin: Normal Operating Range, EnterModifiedCompliance- ComplianceSOS-
+			 Compliance De-emphasis: -6dB
+		LnkSta2: Current De-emphasis Level: -6dB, EqualizationComplete- EqualizationPhase1-
+			 EqualizationPhase2- EqualizationPhase3- LinkEqualizationRequest-
+			 Retimer- 2Retimers- CrosslinkRes: unsupported
+	Capabilities: [c0] Subsystem: ASPEED Technology, Inc. AST1150 PCI-to-PCI Bridge
+	Capabilities: [100 v1] Virtual Channel
+		Caps:	LPEVC=0 RefClk=100ns PATEntryBits=1
+		Arb:	Fixed- WRR32- WRR64- WRR128-
+		Ctrl:	ArbSelect=Fixed
+		Status:	InProgress-
+		VC0:	Caps:	PATOffset=00 MaxTimeSlots=1 RejSnoopTrans-
+			Arb:	Fixed- WRR32- WRR64- WRR128- TWRR128- WRR256-
+			Ctrl:	Enable+ ID=0 ArbSelect=Fixed TC/VC=ff
+			Status:	NegoPending- InProgress-
+	Capabilities: [800 v1] Advanced Error Reporting
+		UESta:	DLP- SDES- TLP- FCP- CmpltTO- CmpltAbrt- UnxCmplt- RxOF- MalfTLP- ECRC- UnsupReq+ ACSViol-
+		UEMsk:	DLP- SDES- TLP- FCP- CmpltTO- CmpltAbrt- UnxCmplt- RxOF- MalfTLP- ECRC- UnsupReq+ ACSViol-
+		UESvrt:	DLP+ SDES+ TLP+ FCP+ CmpltTO- CmpltAbrt- UnxCmplt- RxOF+ MalfTLP+ ECRC- UnsupReq- ACSViol-
+		CESta:	RxErr- BadTLP- BadDLLP- Rollover- Timeout- AdvNonFatalErr+
+		CEMsk:	RxErr- BadTLP- BadDLLP- Rollover- Timeout- AdvNonFatalErr-
+		AERCap:	First Error Pointer: 00, ECRCGenCap- ECRCGenEn- ECRCChkCap- ECRCChkEn-
+			MultHdrRecCap- MultHdrRecEn- TLPPfxPres- HdrLogCap-
+		HeaderLog: 00000000 00000000 00000000 00000000
+
+
+> lspci -vvs 03:00.0:
+03:00.0 VGA compatible controller: ASPEED Technology, Inc. ASPEED Graphics Family (rev 52) (prog-if 00 [VGA controller])
+	Subsystem: ASPEED Technology, Inc. ASPEED Graphics Family
+	Control: I/O+ Mem+ BusMaster- SpecCycle- MemWINV- VGASnoop- ParErr+ Stepping- SERR+ FastB2B- DisINTx-
+	Status: Cap+ 66MHz- UDF- FastB2B- ParErr- DEVSEL=medium >TAbort- <TAbort- <MAbort- >SERR- <PERR- INTx-
+	Interrupt: pin A routed to IRQ 16
+	NUMA node: 0
+	IOMMU group: 14
+	Region 0: Memory at 94000000 (32-bit, non-prefetchable) [size=16M]
+	Region 1: Memory at 95000000 (32-bit, non-prefetchable) [size=256K]
+	Region 2: I/O ports at 1000 [size=128]
+	Capabilities: [40] Power Management version 3
+		Flags: PMEClk- DSI- D1+ D2+ AuxCurrent=375mA PME(D0+,D1+,D2+,D3hot+,D3cold+)
+		Status: D0 NoSoftRst- PME-Enable- DSel=0 DScale=0 PME-
+	Capabilities: [50] MSI: Enable- Count=1/4 Maskable- 64bit+
+		Address: 0000000000000000  Data: 0000
+	Kernel driver in use: ast
+	Kernel modules: ast
+
+
+> lspci -vvs 03:00.0:
+03:00.0 VGA compatible controller: ASPEED Technology, Inc. ASPEED Graphics Family (rev 52) (prog-if 00 [VGA controller])
+	Subsystem: ASPEED Technology, Inc. ASPEED Graphics Family
+	Control: I/O+ Mem+ BusMaster- SpecCycle- MemWINV- VGASnoop- ParErr+ Stepping- SERR+ FastB2B- DisINTx-
+	Status: Cap+ 66MHz- UDF- FastB2B- ParErr- DEVSEL=medium >TAbort- <TAbort- <MAbort- >SERR- <PERR- INTx-
+	Interrupt: pin A routed to IRQ 16
+	NUMA node: 0
+	IOMMU group: 14
+	Region 0: Memory at 94000000 (32-bit, non-prefetchable) [size=16M]
+	Region 1: Memory at 95000000 (32-bit, non-prefetchable) [size=256K]
+	Region 2: I/O ports at 1000 [size=128]
+	Capabilities: [40] Power Management version 3
+		Flags: PMEClk- DSI- D1+ D2+ AuxCurrent=375mA PME(D0+,D1+,D2+,D3hot+,D3cold+)
+		Status: D0 NoSoftRst- PME-Enable- DSel=0 DScale=0 PME-
+	Capabilities: [50] MSI: Enable- Count=1/4 Maskable- 64bit+
+		Address: 0000000000000000  Data: 0000
+	Kernel driver in use: ast
+	Kernel modules: ast
+
+
+> lspci -vvs 03:00.0:
+03:00.0 VGA compatible controller: ASPEED Technology, Inc. ASPEED Graphics Family (rev 52) (prog-if 00 [VGA controller])
+	Subsystem: ASPEED Technology, Inc. ASPEED Graphics Family
+	Control: I/O+ Mem+ BusMaster- SpecCycle- MemWINV- VGASnoop- ParErr+ Stepping- SERR+ FastB2B- DisINTx-
+	Status: Cap+ 66MHz- UDF- FastB2B- ParErr- DEVSEL=medium >TAbort- <TAbort- <MAbort- >SERR- <PERR- INTx-
+	Interrupt: pin A routed to IRQ 16
+	NUMA node: 0
+	IOMMU group: 14
+	Region 0: Memory at 94000000 (32-bit, non-prefetchable) [size=16M]
+	Region 1: Memory at 95000000 (32-bit, non-prefetchable) [size=256K]
+	Region 2: I/O ports at 1000 [size=128]
+	Capabilities: [40] Power Management version 3
+		Flags: PMEClk- DSI- D1+ D2+ AuxCurrent=375mA PME(D0+,D1+,D2+,D3hot+,D3cold+)
+		Status: D0 NoSoftRst- PME-Enable- DSel=0 DScale=0 PME-
+	Capabilities: [50] MSI: Enable- Count=1/4 Maskable- 64bit+
+		Address: 0000000000000000  Data: 0000
+	Kernel driver in use: ast
+	Kernel modules: ast
+
+
+> lspci -vvs 03:00.0:
+03:00.0 VGA compatible controller: ASPEED Technology, Inc. ASPEED Graphics Family (rev 52) (prog-if 00 [VGA controller])
+	Subsystem: ASPEED Technology, Inc. ASPEED Graphics Family
+	Control: I/O+ Mem+ BusMaster- SpecCycle- MemWINV- VGASnoop- ParErr+ Stepping- SERR+ FastB2B- DisINTx-
+	Status: Cap+ 66MHz- UDF- FastB2B- ParErr- DEVSEL=medium >TAbort- <TAbort- <MAbort- >SERR- <PERR- INTx-
+	Interrupt: pin A routed to IRQ 16
+	NUMA node: 0
+	IOMMU group: 14
+	Region 0: Memory at 94000000 (32-bit, non-prefetchable) [size=16M]
+	Region 1: Memory at 95000000 (32-bit, non-prefetchable) [size=256K]
+	Region 2: I/O ports at 1000 [size=128]
+	Capabilities: [40] Power Management version 3
+		Flags: PMEClk- DSI- D1+ D2+ AuxCurrent=375mA PME(D0+,D1+,D2+,D3hot+,D3cold+)
+		Status: D0 NoSoftRst- PME-Enable- DSel=0 DScale=0 PME-
+	Capabilities: [50] MSI: Enable- Count=1/4 Maskable- 64bit+
+		Address: 0000000000000000  Data: 0000
+	Kernel driver in use: ast
+	Kernel modules: ast
+
+

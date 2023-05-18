@@ -1,0 +1,9 @@
+cpuid
+ethtool
+ipmitool
+stress-ng
+fio
+lshw
+dmidecode
+msr-tools
+redhat-lsb

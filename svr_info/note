@@ -1,0 +1,4 @@
+1. Do not add '_' in new item pat. eg msrpat Max_Frequency, just use Max Frequency.
+2. openpyxl==2.6.1
+3. Compare two existing configurations command:
+	python3.8 server_info.py -i ./data/1017_board_info.txt -c ./data/10000_board_info.txt
