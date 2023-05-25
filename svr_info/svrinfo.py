@@ -88,7 +88,26 @@ MSRPAT = OrderedDict(
         ("Max Frequency", r"^Max Frequency:\s*(.+?)\n"),
         ("Min Frequency", r"^Min Frequency:\s*(.+?)\n"),
         ("Energy Efficient Turbo", r"^Energy Efficient Turbo:\s*(.+?)\n"),
-        ("0x80000694 0xb1", r"^0x80000694 0xb1:\s*(.+?)\n")
+		
+		("SMI_Count", r"^SMI_Count:\s*(.+?)\n"),
+		("MSR_PPIN", r"^MSR_PPIN:\s*(.+?)\n"),
+		("IA32_BIOS_Sign_ID", r"^IA32_BIOS_Sign_ID:\s*(.+?)\n"),
+		("Platform_Info", r"^Platform_Info:\s*(.+?)\n"),
+		("MSR_PKG_CST_Config_Control", r"^MSR_PKG_CST_Config_Control:\s*(.+?)\n"),
+		("IA32_Perf_Status", r"^IA32_Perf_Status:\s*(.+?)\n"),
+		("IA32_Perf_Ctl", r"^IA32_Perf_Ctl:\s*(.+?)\n"),
+		("IA32_Therm_Status", r"^IA32_Therm_Status:\s*(.+?)\n"),
+		("IA32_MISC_Enable", r"^IA32_MISC_Enable:\s*(.+?)\n"),
+		("Prefetch_CTL", r"^Prefetch_CTL:\s*(.+?)\n"),
+		("IA32_Engergy_Perf_Bias", r"^IA32_Engergy_Perf_Bias:\s*(.+?)\n"),
+		("IA32_Package_Therm_Status", r"^IA32_Package_Therm_Status:\s*(.+?)\n"),
+		("MSR_Power_CTL", r"^MSR_Power_CTL:\s*(.+?)\n"),
+		("MSR_Core_C6_Residency", r"^MSR_Core_C6_Residency:\s*(.+?)\n"),
+		("Uncore_Ratio_Limit", r"^Uncore_Ratio_Limit:\s*(.+?)\n"),
+		("Uncore_Perf_status", r"^Uncore_Perf_status:\s*(.+?)\n"),
+        ("IA_Perf_Limit_Reason", r"^IA_Perf_Limit_Reason:\s*(.+?)\n"),
+		("IA32_HWP_Request", r"^IA32_HWP_Request:\s*(.+?)\n"),
+		("0x80000694 0xb1", r"^0x80000694 0xb1:\s*(.+?)\n")
     ]
 )
 

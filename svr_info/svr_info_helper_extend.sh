@@ -43,6 +43,42 @@ printf "\nMin Frequency: "
 rdmsr -df 7:0 0x774
 printf "\nEnergy Efficient Turbo: "
 rdmsr -f 19:19 0x1fc
+printf "\nSMI_Count: "
+rdmsr 0x34
+printf "\nMSR_PPIN: "
+rdmsr 0x4F
+printf "\nIA32_BIOS_Sign_ID: "
+rdmsr 0x8B
+printf "\nPlatform_Info: "
+rdmsr 0xCE
+printf "\nMSR_PKG_CST_Config_Control: "
+rdmsr 0xE2
+printf "\nIA32_Perf_Status: "
+rdmsr 0x198
+printf "\nIA32_Perf_Ctl: "
+rdmsr 0x199
+printf "\nIA32_Therm_Status: "
+rdmsr 0x19C
+printf "\nIA32_MISC_Enable: "
+rdmsr 0x1A0
+printf "\nPrefetch_CTL: "
+rdmsr 0x1A4
+printf "\nIA32_Engergy_Perf_Bias: "
+rdmsr 0x1B0
+printf "\nIA32_Package_Therm_Status: "
+rdmsr 0x1B1
+printf "\nMSR_Power_CTL: "
+rdmsr 0x1FC
+printf "\nMSR_Core_C6_Residency: "
+rdmsr 0x3FD
+printf "\nUncore_Ratio_Limit: "
+rdmsr 0x620
+printf "\nUncore_Perf_status: "
+rdmsr 0x621
+printf "\nIA_Perf_Limit_Reason: "
+rdmsr 0x64F
+printf "\nIA32_HWP_Request: "
+rdmsr 0x774
 
 printf "\n> frequency_info: \n"
 cpupower frequency-info
@@ -50,6 +86,8 @@ cpupower frequency-info
 printf "> idle_info: \n"
 cpupower idle-info
 
+printf "> ptu data: \n"
+ptu -mon -t 30
 
 ######################################
 printf "> glibc_info: \n"
@@ -152,3 +190,5 @@ fi
 #usage:
 #read cmd: ./mailbox.sh read
 #write cmd: ./mailbox.sh write 0x0311(utilpoint+ufreq)
+
+
