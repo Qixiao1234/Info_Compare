@@ -3,3 +3,4 @@ openpyxl == 2.6.1
 pandas
 xlwt
 xlrd == 1.2.0
+numpy == 1.23.5
