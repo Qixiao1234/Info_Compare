@@ -1,2 +1,2 @@
 # Info_Compare
-see ppt XDD
+# add ptat
