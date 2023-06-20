@@ -3,7 +3,7 @@ import re, os, sys, argparse
 from string import Template
 from collections import defaultdict
 from collections import OrderedDict
-
+from server_info import curr_date
 import openpyxl
 import re
 
@@ -27,7 +27,7 @@ with open('loadnum.txt', 'r+', encoding='utf-8') as a:
     # print(int(run_num.strip()))
     # a.write(str(int(run_num) + 1) + '\n')
 work_dir = os.getcwd()
-Reports_path = str(int(run_num.strip())) + "_Reports.xlsx"
+Reports_path = curr_date + "_Reports.xlsx"
 
 
 # print(Reports_path)
