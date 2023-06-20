@@ -9,7 +9,7 @@ import pcie_parsing
 import gen_result_svr
 import string
 import io
-
+import datetime
 from argparse import ArgumentParser
 
 with open('loadnum.txt', 'r+', encoding='utf-8') as a:
@@ -17,8 +17,11 @@ with open('loadnum.txt', 'r+', encoding='utf-8') as a:
     # print(int(run_num.strip()))
     a.write(str(int(run_num.strip()) + 1) + '\n')
 
+now = datetime.datetime.now()
+global curr_date
+curr_date = now.strftime("%Yww%U.%d-%H.%M.%S")
 work_dir = os.getcwd()
-board_info_path = work_dir + "/data/" + str(run_num).strip() + "_board_info.txt"
+board_info_path = work_dir + "/data/" + curr_date + "_board_info.txt"
 compare_board_info_path = board_info_path
 # print('board_info_path:' + board_info_path)
 
@@ -174,6 +177,7 @@ def main():
         dump_report()
 
 
+
 def collect_info():
     setup_locale()
 
@@ -258,8 +262,8 @@ def dump_report():
         os.chdir(pcie_tool_path)
 
         try:
-            if os.path.isfile(report_path + '/' + str(run_num).strip() + '_Reports.xlsx'):
-                pcie_parsing.main_binary(report_path + '/' + str(run_num).strip() + '_Reports.xlsx')
+            if os.path.isfile(report_path + '/' + curr_date + '_Reports.xlsx'):
+                pcie_parsing.main_binary(report_path + '/' + curr_date + '_Reports.xlsx')
             else:
                 pcie_parsing.main()
                 print(
