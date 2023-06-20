@@ -86,8 +86,9 @@ cpupower frequency-info
 printf "> idle_info: \n"
 cpupower idle-info
 
-printf "> ptu data: \n"
-ptu -mon -t 30
+printf "> ptu or ptat data: \n"
+echo y|ptu -mon -t 30
+echo y|ptat -mon -t 30
 
 ######################################
 printf "> glibc_info: \n"
